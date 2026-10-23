@@ -1,0 +1,158 @@
+[
+  {
+    "id": "E001",
+    "senseId": "S001-1",
+    "lang": "zh",
+    "text": "每个公民都应履行纳税的义务。",
+    "verified": true
+  },
+  {
+    "id": "E002",
+    "senseId": "S001-1",
+    "lang": "vi",
+    "text": "Mọi người có nghĩa vụ nộp thuế theo luật định.（Hiến pháp 2013）",
+    "verified": true,
+    "source": "Hiến pháp 2013",
+    "year": "2013"
+  },
+  {
+    "id": "E003",
+    "senseId": "S001-2",
+    "lang": "zh",
+    "text": "周末他去社区义务教老人用手机。",
+    "verified": true
+  },
+  {
+    "id": "E004",
+    "senseId": "S001-2",
+    "lang": "zh",
+    "text": "很多大学生利用假期到医院义务献血。",
+    "verified": true
+  },
+  {
+    "id": "E005",
+    "senseId": "S001-2",
+    "lang": "vi",
+    "text": "hiến máu tình nguyện",
+    "verified": true
+  },
+  {
+    "id": "E006",
+    "senseId": "S002-1",
+    "lang": "zh",
+    "text": "这部纪录片忠实地反映了当时的生活。",
+    "verified": true
+  },
+  {
+    "id": "E007",
+    "senseId": "S002-1",
+    "lang": "vi",
+    "text": "phản ánh trung thực cuộc sống",
+    "verified": true
+  },
+  {
+    "id": "E008",
+    "senseId": "S002-2",
+    "lang": "zh",
+    "text": "她是这个节目十年的忠实观众。",
+    "verified": true
+  },
+  {
+    "id": "E009",
+    "senseId": "S002-2",
+    "lang": "vi",
+    "text": "khán giả trung thành của chương trình",
+    "verified": true
+  },
+  {
+    "id": "E010",
+    "senseId": "S003-1",
+    "lang": "zh",
+    "text": "军人要忠于祖国、忠于人民。",
+    "verified": true
+  },
+  {
+    "id": "E011",
+    "senseId": "S003-1",
+    "lang": "vi",
+    "text": "Trung với nước, hiếu với dân.",
+    "verified": true
+  },
+  {
+    "id": "E012",
+    "senseId": "S003-2",
+    "lang": "zh",
+    "text": "这部电影基本忠于原著。",
+    "verified": true
+  },
+  {
+    "id": "E013",
+    "senseId": "S003-2",
+    "lang": "zh",
+    "text": "她三十年来一直忠于职守。",
+    "verified": true
+  },
+  {
+    "id": "E014",
+    "senseId": "S003-2",
+    "lang": "vi",
+    "text": "bộ phim bám sát nguyên tác",
+    "verified": true
+  },
+  {
+    "id": "E015",
+    "senseId": "S004-1",
+    "lang": "zh",
+    "text": "他很讲义气，朋友有困难一定帮。",
+    "verified": true
+  },
+  {
+    "id": "E016",
+    "senseId": "S004-1",
+    "lang": "vi",
+    "text": "anh ấy sống rất có nghĩa với bạn bè",
+    "verified": true
+  },
+  {
+    "id": "E017",
+    "senseId": "S005-1",
+    "lang": "zh",
+    "text": "他对公司一直很忠诚。",
+    "verified": true
+  },
+  {
+    "id": "E018",
+    "senseId": "S006-1",
+    "lang": "zh",
+    "text": "这是一场正义的战争。",
+    "verified": true
+  },
+  {
+    "id": "E019",
+    "senseId": "S007-1",
+    "lang": "zh",
+    "text": "他见义勇为，救起了落水的孩子。",
+    "verified": true
+  },
+  {
+    "id": "E020",
+    "senseId": "S008-1",
+    "lang": "zh",
+    "text": "他是个重情义的人。",
+    "verified": true
+  },
+  {
+    "id": "E021",
+    "senseId": "S009-1",
+    "lang": "zh",
+    "text": "他为人忠厚，从不占别人便宜。",
+    "verified": true
+  },
+  {
+    "id": "E022",
+    "senseId": "S010-1",
+    "lang": "zh",
+    "text": "他对国家一片忠心。",
+    "verified": true
+  }
+]

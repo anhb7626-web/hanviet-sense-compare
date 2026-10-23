@@ -1,0 +1,870 @@
+[
+  {
+    "id": "E001",
+    "senseId": "S001-1",
+    "lang": "zh",
+    "text": "每个公民都应履行纳税的义务。",
+    "verified": true
+  },
+  {
+    "id": "E002",
+    "senseId": "S001-1",
+    "lang": "vi",
+    "text": "Mọi người có nghĩa vụ nộp thuế theo luật định.（Hiến pháp 2013）",
+    "verified": true,
+    "source": "Hiến pháp 2013",
+    "year": "2013"
+  },
+  {
+    "id": "E003",
+    "senseId": "S001-2",
+    "lang": "zh",
+    "text": "周末他去社区义务教老人用手机。",
+    "verified": true
+  },
+  {
+    "id": "E004",
+    "senseId": "S001-2",
+    "lang": "zh",
+    "text": "很多大学生利用假期到医院义务献血。",
+    "verified": true
+  },
+  {
+    "id": "E005",
+    "senseId": "S001-2",
+    "lang": "vi",
+    "text": "hiến máu tình nguyện",
+    "verified": true
+  },
+  {
+    "id": "E006",
+    "senseId": "S002-1",
+    "lang": "zh",
+    "text": "这部纪录片忠实地反映了当时的生活。",
+    "verified": true
+  },
+  {
+    "id": "E007",
+    "senseId": "S002-1",
+    "lang": "vi",
+    "text": "phản ánh trung thực cuộc sống",
+    "verified": true
+  },
+  {
+    "id": "E008",
+    "senseId": "S002-2",
+    "lang": "zh",
+    "text": "她是这个节目十年的忠实观众。",
+    "verified": true
+  },
+  {
+    "id": "E009",
+    "senseId": "S002-2",
+    "lang": "vi",
+    "text": "khán giả trung thành của chương trình",
+    "verified": true
+  },
+  {
+    "id": "E010",
+    "senseId": "S003-1",
+    "lang": "zh",
+    "text": "军人要忠于祖国、忠于人民。",
+    "verified": true
+  },
+  {
+    "id": "E011",
+    "senseId": "S003-1",
+    "lang": "vi",
+    "text": "Trung với nước, hiếu với dân.",
+    "verified": true
+  },
+  {
+    "id": "E012",
+    "senseId": "S003-2",
+    "lang": "zh",
+    "text": "这部电影基本忠于原著。",
+    "verified": true
+  },
+  {
+    "id": "E013",
+    "senseId": "S003-2",
+    "lang": "zh",
+    "text": "她三十年来一直忠于职守。",
+    "verified": true
+  },
+  {
+    "id": "E014",
+    "senseId": "S003-2",
+    "lang": "vi",
+    "text": "bộ phim bám sát nguyên tác",
+    "verified": true
+  },
+  {
+    "id": "E015",
+    "senseId": "S004-1",
+    "lang": "zh",
+    "text": "他很讲义气，朋友有困难一定帮。",
+    "verified": true
+  },
+  {
+    "id": "E016",
+    "senseId": "S004-1",
+    "lang": "vi",
+    "text": "anh ấy sống rất có nghĩa với bạn bè",
+    "verified": true
+  },
+  {
+    "id": "E017",
+    "senseId": "S005-1",
+    "lang": "zh",
+    "text": "他对公司一直很忠诚。",
+    "verified": true
+  },
+  {
+    "id": "E018",
+    "senseId": "S006-1",
+    "lang": "zh",
+    "text": "这是一场正义的战争。",
+    "verified": true
+  },
+  {
+    "id": "E019",
+    "senseId": "S007-1",
+    "lang": "zh",
+    "text": "他见义勇为，救起了落水的孩子。",
+    "verified": true
+  },
+  {
+    "id": "E020",
+    "senseId": "S008-1",
+    "lang": "zh",
+    "text": "他是个重情义的人。",
+    "verified": true
+  },
+  {
+    "id": "E021",
+    "senseId": "S009-1",
+    "lang": "zh",
+    "text": "他为人忠厚，从不占别人便宜。",
+    "verified": true
+  },
+  {
+    "id": "E022",
+    "senseId": "S010-1",
+    "lang": "zh",
+    "text": "他对国家一片忠心。",
+    "verified": true
+  },
+  {
+    "id": "E101",
+    "senseId": "S011-1",
+    "lang": "zh",
+    "text": "比赛的结果出来了。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E102",
+    "senseId": "S012-2",
+    "lang": "zh",
+    "text": "为了保险起见，我们还是早点出发。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E103",
+    "senseId": "S013-2",
+    "lang": "zh",
+    "text": "这个问题我保留意见。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E104",
+    "senseId": "S014-2",
+    "lang": "zh",
+    "text": "他写了一份检查，承认了自己的错误。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E105",
+    "senseId": "S015-2",
+    "lang": "zh",
+    "text": "他在杂志上发表了一篇文章。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E106",
+    "senseId": "S016-2",
+    "lang": "zh",
+    "text": "你的理由不能成立。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E109",
+    "senseId": "S017-2",
+    "lang": "zh",
+    "text": "学校的学习环境很好。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E110",
+    "senseId": "S018-1",
+    "lang": "zh",
+    "text": "他有丰富的工作经验。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E111",
+    "senseId": "S019-2",
+    "lang": "zh",
+    "text": "他在比赛中发挥得很好。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E112",
+    "senseId": "S020-1",
+    "lang": "zh",
+    "text": "妈妈很关心我的学习。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E116",
+    "senseId": "S021-2",
+    "lang": "zh",
+    "text": "公司在网上为新产品做宣传。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E117",
+    "senseId": "S022-2",
+    "lang": "zh",
+    "text": "听到这个好消息，她激动得哭了。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E119",
+    "senseId": "S023-2",
+    "lang": "zh",
+    "text": "她很会保养，五十岁看起来像三十岁。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E121",
+    "senseId": "S024-2",
+    "lang": "zh",
+    "text": "这本小说是他翻译的。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E122",
+    "senseId": "S025-1",
+    "lang": "zh",
+    "text": "我们讨论了这个问题。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E123",
+    "senseId": "S026-2",
+    "lang": "zh",
+    "text": "毕业以后，我们已经分别十年了。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E125",
+    "senseId": "S027-2",
+    "lang": "zh",
+    "text": "最近这里水电供应很紧张。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E126",
+    "senseId": "S028-2",
+    "lang": "zh",
+    "text": "这本书很有价值。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E127",
+    "senseId": "S029-2",
+    "lang": "zh",
+    "text": "这个物体的质量是5千克。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E129",
+    "senseId": "S030-2",
+    "lang": "zh",
+    "text": "这种现象很普遍。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E130",
+    "senseId": "S031-2",
+    "lang": "zh",
+    "text": "我们要保护环境。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E133",
+    "senseId": "S032-2",
+    "lang": "zh",
+    "text": "他是北京大学的学生。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E134",
+    "senseId": "S033-2",
+    "lang": "zh",
+    "text": "她先生在银行工作。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E135",
+    "senseId": "S034-1",
+    "lang": "zh",
+    "text": "这里很安全。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E137",
+    "senseId": "S035-2",
+    "lang": "zh",
+    "text": "他今天看起来很精神。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E138",
+    "senseId": "S036-1",
+    "lang": "zh",
+    "text": "这是一个难得的机会。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E139",
+    "senseId": "S037-2",
+    "lang": "zh",
+    "text": "我们要用法律手段解决问题。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E140",
+    "senseId": "S038-2",
+    "lang": "zh",
+    "text": "他去年被发展为党员。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E141",
+    "senseId": "S039-2",
+    "lang": "zh",
+    "text": "他离开北京已经三年了。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E142",
+    "senseId": "S040-2",
+    "lang": "zh",
+    "text": "过马路时，行人要走人行横道。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E143",
+    "senseId": "S041-1",
+    "lang": "zh",
+    "text": "天空中出现了一道彩虹。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E144",
+    "senseId": "S042-2",
+    "lang": "zh",
+    "text": "这家公司开发了一款新软件。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E146",
+    "senseId": "S043-1",
+    "lang": "zh",
+    "text": "这里的生活条件不错。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E148",
+    "senseId": "S044-2",
+    "lang": "zh",
+    "text": "这个频道的节目很有意思。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E149",
+    "senseId": "S045-2",
+    "lang": "zh",
+    "text": "他这个人很实在。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E150",
+    "senseId": "S046-2",
+    "lang": "zh",
+    "text": "警察在现场维持秩序。",
+    "verified": true,
+    "source": "测试题"
+  },
+  {
+    "id": "E1047",
+    "senseId": "S047-1",
+    "lang": "zh",
+    "text": "这个问题很困难。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1048",
+    "senseId": "S048-1",
+    "lang": "zh",
+    "text": "他做了深刻的检讨。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1049",
+    "senseId": "S049-1",
+    "lang": "zh",
+    "text": "情况很严重。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1050",
+    "senseId": "S050-1",
+    "lang": "zh",
+    "text": "这是什么东西?",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1051",
+    "senseId": "S051-1",
+    "lang": "zh",
+    "text": "小心车!",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1052",
+    "senseId": "S052-1",
+    "lang": "zh",
+    "text": "她的丈夫是医生。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1053",
+    "senseId": "S053-1",
+    "lang": "zh",
+    "text": "他是公司经理。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1054",
+    "senseId": "S054-1",
+    "lang": "zh",
+    "text": "你什么时候方便,我们见面聊。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1055",
+    "senseId": "S055-1",
+    "lang": "zh",
+    "text": "师傅,去机场多少钱?",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1056",
+    "senseId": "S056-1",
+    "lang": "zh",
+    "text": "这个便利店卖很多便宜的东西。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1057",
+    "senseId": "S057-1",
+    "lang": "zh",
+    "text": "我明白你的意思了。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1058",
+    "senseId": "S058-1",
+    "lang": "zh",
+    "text": "这家餐厅的菜很地道。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1059",
+    "senseId": "S059-1",
+    "lang": "zh",
+    "text": "她每天都要化妆才出门。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1060",
+    "senseId": "S060-1",
+    "lang": "zh",
+    "text": "洋气的衣服。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1061",
+    "senseId": "S061-1",
+    "lang": "zh",
+    "text": "大人和小孩都喜欢这个",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1062",
+    "senseId": "S062-1",
+    "lang": "zh",
+    "text": "欠了他一个人情，以后要还。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1063",
+    "senseId": "S063-1",
+    "lang": "zh",
+    "text": "他听了这话很生气。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1064",
+    "senseId": "S064-1",
+    "lang": "zh",
+    "text": "凡事都要看正面和反面。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1065",
+    "senseId": "S065-1",
+    "lang": "zh",
+    "text": "他对她还有感情，舍不得分开。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1066",
+    "senseId": "S066-1",
+    "lang": "zh",
+    "text": "大家都理解我的难处。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1067",
+    "senseId": "S067-1",
+    "lang": "zh",
+    "text": "手机解锁需要密码。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1068",
+    "senseId": "S068-1",
+    "lang": "zh",
+    "text": "AI生成",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1069",
+    "senseId": "S069-1",
+    "lang": "zh",
+    "text": "文化程度",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1070",
+    "senseId": "S070-1",
+    "lang": "zh",
+    "text": "来我家不用客气，随便一点。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1071",
+    "senseId": "S071-1",
+    "lang": "zh",
+    "text": "我的爱人在上海工作。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1072",
+    "senseId": "S072-1",
+    "lang": "zh",
+    "text": "我们应该利用时间学习。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1073",
+    "senseId": "S073-1",
+    "lang": "zh",
+    "text": "这次感冒很厉害。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1074",
+    "senseId": "S074-1",
+    "lang": "zh",
+    "text": "外交对国家的发展有重要作用。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1075",
+    "senseId": "S075-1",
+    "lang": "zh",
+    "text": "你别这么见外，就像一家人一样。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1076",
+    "senseId": "S076-1",
+    "lang": "zh",
+    "text": "他平时看起来很严肃，但在女朋友面前很会撒娇。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1077",
+    "senseId": "S077-1",
+    "lang": "zh",
+    "text": "我弟弟在一所中学读书。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1078",
+    "senseId": "S078-1",
+    "lang": "zh",
+    "text": "他太大意了，把手机忘在车上。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1079",
+    "senseId": "S079-1",
+    "lang": "zh",
+    "text": "老师监督学生考试。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1080",
+    "senseId": "S080-1",
+    "lang": "zh",
+    "text": "我很同情他的遭遇。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1081",
+    "senseId": "S081-1",
+    "lang": "zh",
+    "text": "他年轻时很风流。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1082",
+    "senseId": "S082-1",
+    "lang": "zh",
+    "text": "他学习很消极，总是等老师提醒。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1083",
+    "senseId": "S083-1",
+    "lang": "zh",
+    "text": "课堂气氛非常活泼。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1084",
+    "senseId": "S084-1",
+    "lang": "zh",
+    "text": "明天家长要来学校开会。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1085",
+    "senseId": "S085-1",
+    "lang": "zh",
+    "text": "他答应帮我的忙。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1086",
+    "senseId": "S086-1",
+    "lang": "zh",
+    "text": "我们住在一家五星级酒店。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1087",
+    "senseId": "S087-1",
+    "lang": "zh",
+    "text": "为了工作，他牺牲了周末时间。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1088",
+    "senseId": "S088-1",
+    "lang": "zh",
+    "text": "这个机器的机关很复杂。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1089",
+    "senseId": "S089-1",
+    "lang": "zh",
+    "text": "我去跟他们交涉。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1090",
+    "senseId": "S090-1",
+    "lang": "zh",
+    "text": "我发觉他最近变了。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1091",
+    "senseId": "S091-1",
+    "lang": "zh",
+    "text": "我为你感到骄傲。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1092",
+    "senseId": "S092-1",
+    "lang": "zh",
+    "text": "这件事产生了很大的影响。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1093",
+    "senseId": "S093-1",
+    "lang": "zh",
+    "text": "收拾房间。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1094",
+    "senseId": "S094-1",
+    "lang": "zh",
+    "text": "王老师对他非常好。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1095",
+    "senseId": "S095-1",
+    "lang": "zh",
+    "text": "去年，中国代表团到越南去访问。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1096",
+    "senseId": "S096-1",
+    "lang": "zh",
+    "text": "彩虹有七种颜色。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1097",
+    "senseId": "S097-1",
+    "lang": "zh",
+    "text": "请尽快回复我的邮件。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1098",
+    "senseId": "S098-1",
+    "lang": "zh",
+    "text": "草莓口味的酸奶。",
+    "verified": false,
+    "source": "分类表"
+  },
+  {
+    "id": "E1099",
+    "senseId": "S099-1",
+    "lang": "zh",
+    "text": "她的表情很奇怪。",
+    "verified": false,
+    "source": "分类表"
+  }
+]

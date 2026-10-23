@@ -1,0 +1,122 @@
+[
+  {
+    "id": "W001",
+    "zh": "义务",
+    "pinyin": "yìwù",
+    "hanviet": "nghĩa vụ",
+    "hsk": "四级",
+    "group": "A",
+    "shiftType": "意义扩展",
+    "status": "verified",
+    "gist_vi": "义务 còn có nghĩa <b>không lấy tiền, tình nguyện</b> (义务献血). Tiếng Việt “nghĩa vụ” không có nghĩa này.",
+    "gist_zh": "义务还有“不收报酬、自愿”义（义务献血）。越南语“nghĩa vụ”无此义。"
+  },
+  {
+    "id": "W002",
+    "zh": "忠实",
+    "pinyin": "zhōngshí",
+    "hanviet": "trung thực",
+    "hsk": "七—九级",
+    "group": "A",
+    "shiftType": "义项范围／搭配",
+    "status": "verified",
+    "gist_vi": "忠实观众 là khán giả <b>trung thành</b>, không phải khán giả “trung thực”.",
+    "gist_zh": "忠实观众是“忠心支持”的观众，不是“诚实”的观众。"
+  },
+  {
+    "id": "W003",
+    "zh": "忠于",
+    "pinyin": "zhōngyú",
+    "hanviet": "trung với",
+    "hsk": "七—九级",
+    "group": "A",
+    "shiftType": "对象指向",
+    "status": "verified",
+    "gist_vi": "忠于 dùng được cho cả <b>công việc, nguyên tác, tình yêu</b>, không chỉ cho nước hay Đảng như “trung với”.",
+    "gist_zh": "忠于可用于职守、原著、爱情等，不限于国家或政党。"
+  },
+  {
+    "id": "W004",
+    "zh": "义气",
+    "pinyin": "yìqì",
+    "hanviet": "nghĩa khí",
+    "hsk": "未收录",
+    "group": "A",
+    "shiftType": "义项范围",
+    "status": "verified",
+    "gist_vi": "讲义气 là <b>sống có nghĩa với bạn bè</b>, không phải “khí khái vì chính nghĩa”.",
+    "gist_zh": "讲义气指看重朋友情谊、肯出力，并非“为正义而豪气”。"
+  },
+  {
+    "id": "W005",
+    "zh": "忠诚",
+    "pinyin": "zhōngchéng",
+    "hanviet": "trung thành",
+    "hsk": "七—九级",
+    "group": "A",
+    "shiftType": "基本对应",
+    "status": "verified",
+    "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。"
+  },
+  {
+    "id": "W006",
+    "zh": "正义",
+    "pinyin": "zhèngyì",
+    "hanviet": "chính nghĩa",
+    "hsk": "五级",
+    "group": "A",
+    "shiftType": "基本对应",
+    "status": "verified",
+    "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。"
+  },
+  {
+    "id": "W007",
+    "zh": "见义勇为",
+    "pinyin": "jiànyì-yǒngwéi",
+    "hanviet": "kiến nghĩa dũng vi",
+    "hsk": "七—九级",
+    "group": "A",
+    "shiftType": "基本对应",
+    "status": "verified",
+    "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。"
+  },
+  {
+    "id": "W008",
+    "zh": "情义",
+    "pinyin": "qíngyì",
+    "hanviet": "tình nghĩa",
+    "hsk": "未收录",
+    "group": "A",
+    "shiftType": "基本对应",
+    "status": "verified",
+    "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。"
+  },
+  {
+    "id": "W009",
+    "zh": "忠厚",
+    "pinyin": "zhōnghòu",
+    "hanviet": "trung hậu",
+    "hsk": "未收录",
+    "group": "A",
+    "shiftType": "对象指向（待核实）",
+    "status": "pending",
+    "gist_vi": "Đối tượng được khen có thể khác giữa hai ngôn ngữ. Mục này đang kiểm chứng.",
+    "gist_zh": "褒奖对象可能因语言而异。本条待核实。"
+  },
+  {
+    "id": "W010",
+    "zh": "忠心",
+    "pinyin": "zhōngxīn",
+    "hanviet": "trung tâm (忠心)",
+    "hsk": "六级",
+    "group": "A",
+    "shiftType": "读音干扰（待核实）",
+    "status": "pending",
+    "gist_vi": "Âm Hán Việt của 忠心 trùng với 中心 (trung tâm), dễ nhầm do đồng âm. Mục này đang kiểm chứng.",
+    "gist_zh": "汉越音与“中心”同音，易因同音干扰而误。本条待核实。"
+  }
+]

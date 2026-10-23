@@ -1,0 +1,1527 @@
+{
+  "meta": {
+    "draft": true,
+    "note": "Các trường tiếng Trung còn TODO / （待补充） — điền rồi có thể merge vào words/senses.json",
+    "generatedAt": "2026-10-22"
+  },
+  "words": {
+    "W001": {
+      "gist_zh": "义务还有“不收报酬、自愿”义（义务献血）。越南语“nghĩa vụ”无此义。",
+      "_source": "TODO: 义务还有“不收报酬、自愿”义（义务献血）。越南语“nghĩa vụ”无此义。",
+      "draft": true,
+      "zh": "义务"
+    },
+    "W002": {
+      "gist_zh": "忠实观众是“忠心支持”的观众，不是“诚实”的观众。",
+      "_source": "TODO: 忠实观众是“忠心支持”的观众，不是“诚实”的观众。",
+      "draft": true,
+      "zh": "忠实"
+    },
+    "W003": {
+      "gist_zh": "忠于可用于职守、原著、爱情等，不限于国家或政党。",
+      "_source": "TODO: 忠于可用于职守、原著、爱情等，不限于国家或政党。",
+      "draft": true,
+      "zh": "忠于"
+    },
+    "W004": {
+      "gist_zh": "讲义气指看重朋友情谊、肯出力，并非“为正义而豪气”。",
+      "_source": "TODO: 讲义气指看重朋友情谊、肯出力，并非“为正义而豪气”。",
+      "draft": true,
+      "zh": "义气"
+    },
+    "W005": {
+      "gist_zh": "基本义与越南语对应，可按汉越音理解。",
+      "_source": "TODO: 基本义与越南语对应，可按汉越音理解。",
+      "draft": true,
+      "zh": "忠诚"
+    },
+    "W006": {
+      "gist_zh": "基本义与越南语对应，可按汉越音理解。",
+      "_source": "TODO: 基本义与越南语对应，可按汉越音理解。",
+      "draft": true,
+      "zh": "正义"
+    },
+    "W007": {
+      "gist_zh": "基本义与越南语对应，可按汉越音理解。",
+      "_source": "TODO: 基本义与越南语对应，可按汉越音理解。",
+      "draft": true,
+      "zh": "见义勇为"
+    },
+    "W008": {
+      "gist_zh": "基本义与越南语对应，可按汉越音理解。",
+      "_source": "TODO: 基本义与越南语对应，可按汉越音理解。",
+      "draft": true,
+      "zh": "情义"
+    },
+    "W009": {
+      "gist_zh": "褒奖对象可能因语言而异。本条待核实。",
+      "_source": "TODO: 褒奖对象可能因语言而异。本条待核实。",
+      "draft": true,
+      "zh": "忠厚"
+    },
+    "W010": {
+      "gist_zh": "汉越音与“中心”同音，易因同音干扰而误。本条待核实。",
+      "_source": "TODO: 汉越音与“中心”同音，易因同音干扰而误。本条待核实。",
+      "draft": true,
+      "zh": "忠心"
+    },
+    "W047": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "困难"
+    },
+    "W048": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "检讨"
+    },
+    "W049": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "严重"
+    },
+    "W050": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "东西"
+    },
+    "W051": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "小心"
+    },
+    "W052": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "丈夫"
+    },
+    "W053": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "经理"
+    },
+    "W054": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "方便"
+    },
+    "W055": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "师傅"
+    },
+    "W056": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "便宜"
+    },
+    "W057": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "明白"
+    },
+    "W058": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "地道"
+    },
+    "W059": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "化妆"
+    },
+    "W060": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "洋气"
+    },
+    "W061": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "大人"
+    },
+    "W062": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "人情"
+    },
+    "W063": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "生气"
+    },
+    "W064": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "反面"
+    },
+    "W065": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "感情"
+    },
+    "W066": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "理解"
+    },
+    "W067": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "解锁"
+    },
+    "W068": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "生成"
+    },
+    "W069": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "程度"
+    },
+    "W070": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "随便"
+    },
+    "W071": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "爱人"
+    },
+    "W072": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "利用"
+    },
+    "W073": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "厉害"
+    },
+    "W074": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "作用"
+    },
+    "W075": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "见外"
+    },
+    "W076": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "撒娇"
+    },
+    "W077": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "中学"
+    },
+    "W078": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "大意"
+    },
+    "W079": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "监督"
+    },
+    "W080": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "同情"
+    },
+    "W081": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "风流"
+    },
+    "W082": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "消极"
+    },
+    "W083": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "活泼"
+    },
+    "W084": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "家长"
+    },
+    "W085": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "答应"
+    },
+    "W086": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "酒店"
+    },
+    "W087": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "牺牲"
+    },
+    "W088": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "机关"
+    },
+    "W089": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "交涉"
+    },
+    "W090": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "发觉"
+    },
+    "W091": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "骄傲"
+    },
+    "W092": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "产生"
+    },
+    "W093": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "收拾"
+    },
+    "W094": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "非常"
+    },
+    "W095": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "访问"
+    },
+    "W096": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "颜色"
+    },
+    "W097": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "回复"
+    },
+    "W098": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "口味"
+    },
+    "W099": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "表情"
+    },
+    "W100": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "忠"
+    },
+    "W101": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "孝"
+    },
+    "W102": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "膨胀"
+    },
+    "W103": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "豪华"
+    },
+    "W104": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "兽医"
+    },
+    "W105": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "保卫"
+    },
+    "W106": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "解放"
+    },
+    "W107": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "动员"
+    },
+    "W108": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "干部"
+    },
+    "W109": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "书记"
+    },
+    "W110": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "工程"
+    },
+    "W111": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "组织"
+    },
+    "W112": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "工作"
+    },
+    "W113": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "招待"
+    },
+    "W114": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "冲锋"
+    },
+    "W115": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "规模"
+    },
+    "W116": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "安宁"
+    },
+    "W117": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "经济"
+    },
+    "W118": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "留意"
+    },
+    "W119": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "研究"
+    },
+    "W120": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "道德"
+    },
+    "W121": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "发明"
+    },
+    "W122": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "成就"
+    },
+    "W123": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "成果"
+    },
+    "W124": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "尊重"
+    },
+    "W125": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "进行"
+    },
+    "W126": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "周到"
+    },
+    "W127": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "注意"
+    },
+    "W128": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "同意"
+    },
+    "W129": {
+      "gist_zh": "",
+      "_source": "（中文说明待补充）",
+      "draft": true,
+      "zh": "教育"
+    }
+  },
+  "senses": {
+    "S001-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W001"
+    },
+    "S001-2": {
+      "warn_zh": "义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。",
+      "_source_warn": "TODO: 义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。",
+      "draft": true,
+      "wordId": "W001"
+    },
+    "S002-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W002"
+    },
+    "S002-2": {
+      "warn_zh": "忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。",
+      "_source_warn": "TODO: 忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。",
+      "draft": true,
+      "wordId": "W002"
+    },
+    "S003-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W003"
+    },
+    "S003-2": {
+      "warn_zh": "忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。",
+      "_source_warn": "TODO: 忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。",
+      "draft": true,
+      "wordId": "W003"
+    },
+    "S004-1": {
+      "warn_zh": "讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。",
+      "_source_warn": "TODO: 讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。",
+      "draft": true,
+      "wordId": "W004"
+    },
+    "S005-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W005"
+    },
+    "S006-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W006"
+    },
+    "S007-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W007"
+    },
+    "S008-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W008"
+    },
+    "S009-1": {
+      "warn_zh": "褒奖对象可能因语言而异。本条待核实。",
+      "_source_warn": "TODO: 褒奖对象可能因语言而异。本条待核实。",
+      "draft": true,
+      "wordId": "W009"
+    },
+    "S010-1": {
+      "warn_zh": "这是同音干扰，不是义项偏移。",
+      "_source_warn": "TODO: 这是同音干扰，不是义项偏移。",
+      "draft": true,
+      "wordId": "W010"
+    },
+    "S011-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W011"
+    },
+    "S012-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W012"
+    },
+    "S013-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W013"
+    },
+    "S014-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W014"
+    },
+    "S015-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W015"
+    },
+    "S016-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W016"
+    },
+    "S017-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W017"
+    },
+    "S018-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W018"
+    },
+    "S019-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W019"
+    },
+    "S020-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W020"
+    },
+    "S021-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W021"
+    },
+    "S022-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W022"
+    },
+    "S023-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W023"
+    },
+    "S024-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W024"
+    },
+    "S025-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W025"
+    },
+    "S026-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W026"
+    },
+    "S027-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W027"
+    },
+    "S028-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W028"
+    },
+    "S029-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W029"
+    },
+    "S030-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W030"
+    },
+    "S031-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W031"
+    },
+    "S032-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W032"
+    },
+    "S033-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W033"
+    },
+    "S034-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W034"
+    },
+    "S035-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W035"
+    },
+    "S036-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W036"
+    },
+    "S037-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W037"
+    },
+    "S038-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W038"
+    },
+    "S039-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W039"
+    },
+    "S040-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W040"
+    },
+    "S041-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W041"
+    },
+    "S042-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W042"
+    },
+    "S043-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W043"
+    },
+    "S044-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W044"
+    },
+    "S045-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W045"
+    },
+    "S046-1": {
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W046"
+    },
+    "S047-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W047"
+    },
+    "S048-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W048"
+    },
+    "S049-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W049"
+    },
+    "S050-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W050"
+    },
+    "S051-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W051"
+    },
+    "S052-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W052"
+    },
+    "S053-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W053"
+    },
+    "S054-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W054"
+    },
+    "S055-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W055"
+    },
+    "S056-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W056"
+    },
+    "S057-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W057"
+    },
+    "S058-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W058"
+    },
+    "S059-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W059"
+    },
+    "S060-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W060"
+    },
+    "S061-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W061"
+    },
+    "S062-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W062"
+    },
+    "S063-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W063"
+    },
+    "S064-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W064"
+    },
+    "S065-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W065"
+    },
+    "S066-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W066"
+    },
+    "S067-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W067"
+    },
+    "S068-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W068"
+    },
+    "S069-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W069"
+    },
+    "S070-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W070"
+    },
+    "S071-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W071"
+    },
+    "S072-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W072"
+    },
+    "S073-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W073"
+    },
+    "S074-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W074"
+    },
+    "S075-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W075"
+    },
+    "S076-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W076"
+    },
+    "S077-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W077"
+    },
+    "S078-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W078"
+    },
+    "S079-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W079"
+    },
+    "S080-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W080"
+    },
+    "S081-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W081"
+    },
+    "S082-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W082"
+    },
+    "S083-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W083"
+    },
+    "S084-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W084"
+    },
+    "S085-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W085"
+    },
+    "S086-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W086"
+    },
+    "S087-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W087"
+    },
+    "S088-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W088"
+    },
+    "S089-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W089"
+    },
+    "S090-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W090"
+    },
+    "S091-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W091"
+    },
+    "S092-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W092"
+    },
+    "S093-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W093"
+    },
+    "S094-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W094"
+    },
+    "S095-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W095"
+    },
+    "S096-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W096"
+    },
+    "S097-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W097"
+    },
+    "S098-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W098"
+    },
+    "S099-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W099"
+    },
+    "S100-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W100"
+    },
+    "S101-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W101"
+    },
+    "S102-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W102"
+    },
+    "S103-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W103"
+    },
+    "S104-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W104"
+    },
+    "S105-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W105"
+    },
+    "S106-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W106"
+    },
+    "S107-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W107"
+    },
+    "S108-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W108"
+    },
+    "S109-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W109"
+    },
+    "S110-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W110"
+    },
+    "S111-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W111"
+    },
+    "S112-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W112"
+    },
+    "S113-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W113"
+    },
+    "S114-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W114"
+    },
+    "S115-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W115"
+    },
+    "S116-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W116"
+    },
+    "S117-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W117"
+    },
+    "S118-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W118"
+    },
+    "S119-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W119"
+    },
+    "S120-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W120"
+    },
+    "S121-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W121"
+    },
+    "S122-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W122"
+    },
+    "S123-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W123"
+    },
+    "S124-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W124"
+    },
+    "S125-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W125"
+    },
+    "S126-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W126"
+    },
+    "S127-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W127"
+    },
+    "S128-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W128"
+    },
+    "S129-1": {
+      "def_zh": "",
+      "_source_def": "（待补充）",
+      "warn_zh": "",
+      "_source_warn": "",
+      "draft": true,
+      "wordId": "W129"
+    }
+  }
+}

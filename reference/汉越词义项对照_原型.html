@@ -1,0 +1,300 @@
+<title>汉越词义项对照</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: một cột giữa, kiểu từ điển tìm-kiếm-trước (như Jisho/Hanzii). Trang chủ = mục đích + 2 lối vào; trang từ = "Bạn nghĩ là… / Thực ra…" */
+:root{
+  --bg:#f6f7f9; --panel:#fff; --ink:#18202a; --muted:#5d6878; --line:#e1e5eb;
+  --accent:#1c5d8c; --accent-soft:#e6f0f8; --trap:#c0392b; --trap-soft:#fdecea; --ok:#23804a; --ok-soft:#e5f4ea;
+  --han:"Noto Serif SC","Songti SC",serif; --body:"Be Vietnam Pro","PingFang SC",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12161c; --panel:#1a2029; --ink:#e8ecf2; --muted:#9aa5b4; --line:#2a323e;
+  --accent:#7db8e8; --accent-soft:#1d2b3a; --trap:#f2897d; --trap-soft:#3a2020; --ok:#7fd29d; --ok-soft:#1b3326; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161c; --panel:#1a2029; --ink:#e8ecf2; --muted:#9aa5b4; --line:#2a323e;
+  --accent:#7db8e8; --accent-soft:#1d2b3a; --trap:#f2897d; --trap-soft:#3a2020; --ok:#7fd29d; --ok-soft:#1b3326; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 56px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+nav{display:flex;justify-content:space-between;align-items:center;gap:10px;padding-block:16px;border-bottom:1px solid var(--line)}
+.logo{font-family:var(--han);font-weight:700;font-size:1.15rem;background:none;border:0;color:var(--ink);cursor:pointer;padding:0}
+.logo small{font-family:var(--body);font-weight:500;color:var(--muted);font-size:.8rem;margin-left:6px}
+.navbtns{display:flex;gap:6px}
+.nb{font:inherit;font-size:.88rem;font-weight:600;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:99px;padding:6px 14px;cursor:pointer}
+.nb.on{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1{font-size:clamp(1.7rem,5vw,2.4rem);line-height:1.2;margin:0;text-wrap:balance}
+h1 em{font-style:normal;color:var(--trap)}
+.lead{color:var(--muted);font-size:1.05rem;margin:0;max-width:60ch}
+.search{position:relative}
+.search input{width:100%;font:inherit;font-size:1.1rem;color:var(--ink);background:var(--panel);border:2px solid var(--line);border-radius:12px;padding:14px 16px}
+.search input:focus{border-color:var(--accent);outline:none}
+.sugg{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.88rem;color:var(--muted)}
+.chip{font:inherit;font-size:.92rem;border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:99px;padding:4px 12px;cursor:pointer}
+.chip .h{font-family:var(--han)}
+.chip.trap{border-color:var(--trap);color:var(--trap)}
+.demo{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:560px){.demo{grid-template-columns:1fr}}
+.demo .w{grid-column:1/-1;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.han{font-family:var(--han)}
+.big{font-size:2.4rem;line-height:1}
+.box{border-radius:10px;padding:12px 14px;min-width:0}
+.box.think{background:var(--bg)}
+.box.real{background:var(--trap-soft)}
+.box b.t{display:block;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.box.real b.t{color:var(--trap)}
+.ways{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:560px){.ways{grid-template-columns:1fr}}
+.way{text-align:left;font:inherit;color:inherit;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px;cursor:pointer;display:flex;flex-direction:column;gap:4px}
+.way:hover{border-color:var(--accent)}
+.way b{font-size:1.05rem}
+.way span{color:var(--muted);font-size:.92rem}
+.way .go{color:var(--accent);font-weight:600;font-size:.9rem;margin-top:6px}
+.who{display:grid;grid-template-columns:1fr 1fr;gap:12px;font-size:.92rem}
+@media (max-width:560px){.who{grid-template-columns:1fr}}
+.who div{border-top:2px solid var(--accent);padding-top:8px}
+.who p{margin:2px 0 0;color:var(--muted)}
+.list{display:flex;flex-direction:column;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 16px;border:0;border-bottom:1px solid var(--line);background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--bg)}
+.row .h{font-family:var(--han);font-size:1.2rem;margin-right:8px}
+.row .v{color:var(--muted)}
+.tag{font-size:.75rem;font-weight:600;padding:2px 10px;border-radius:99px;white-space:nowrap}
+.tag.trap{background:var(--trap-soft);color:var(--trap)}
+.tag.ok{background:var(--ok-soft);color:var(--ok)}
+.tag.wait{background:var(--accent-soft);color:var(--muted)}
+.back{font:inherit;color:var(--accent);background:none;border:0;padding:0;cursor:pointer;font-weight:600;align-self:flex-start}
+.whead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+.whead .big{font-size:3rem}
+.whead .m{color:var(--muted)}
+.verdict{border-radius:12px;padding:14px 16px;font-size:1rem}
+.verdict.trap{background:var(--trap-soft)} .verdict.ok{background:var(--ok-soft)} .verdict.wait{background:var(--accent-soft)}
+.sense{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.sense.trap{border-color:var(--trap)}
+.sh{display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap}
+.sh b{font-size:1.02rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:560px){.two{grid-template-columns:1fr}}
+.ex{margin:4px 0 0;padding-left:18px;font-size:.92rem;color:var(--muted)}
+details{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 16px;font-size:.9rem}
+summary{cursor:pointer;font-weight:600;color:var(--muted)}
+.dims{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.dim{border:1px solid var(--line);border-radius:6px;padding:3px 10px}
+.dim.on{border-color:var(--trap);color:var(--trap);font-weight:600}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:16px}
+.q{font-family:var(--han);font-size:1.4rem;margin:0}
+.q u{text-decoration-color:var(--accent);text-underline-offset:6px;text-decoration-thickness:2px}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{text-align:left;font:inherit;color:inherit;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt.right{border-color:var(--ok);background:var(--ok-soft)} .opt.wrong{border-color:var(--trap);background:var(--trap-soft)}
+.opt:disabled{cursor:default}
+.bar{height:6px;background:var(--line);border-radius:99px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent);transition:width .3s}
+.fb{border-radius:10px;padding:12px 14px}
+.fb.r{background:var(--ok-soft)} .fb.w{background:var(--trap-soft)}
+.btn{font:inherit;font-weight:600;border:0;border-radius:10px;padding:10px 20px;background:var(--accent);color:var(--panel);cursor:pointer;align-self:flex-end}
+.btn.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+.score{font-size:2.6rem;font-weight:700;line-height:1;font-variant-numeric:tabular-nums}
+.link{font:inherit;background:none;border:0;padding:0;color:var(--accent);text-decoration:underline;cursor:pointer}
+footer{color:var(--muted);font-size:.8rem;border-top:1px solid var(--line);padding-top:12px}
+.lbl{font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<div class="wrap">
+  <nav>
+    <button class="logo" id="home">汉越词义项对照<small>Từ Hán Việt: giống mà khác</small></button>
+    <div class="navbtns">
+      <button class="nb" id="n-look">Tra từ</button>
+      <button class="nb" id="n-quiz">Tự kiểm tra</button>
+    </div>
+  </nav>
+  <main id="view"></main>
+  <footer>Bản mẫu v0.2 · 10 từ nhóm 忠/义 thuộc khóa luận “汉越词语义偏移类型对越南学习者理解偏差的影响”. Số liệu người học sẽ được cập nhật sau khảo sát chính thức. Mục gắn nhãn “Đang kiểm chứng” chưa đối chiếu từ điển.</footer>
+</div>
+<script>
+/* ===== 数据：4 张表，以 ID 关联 ===== */
+const words=[
+ {id:"W001",zh:"义务",py:"yìwù",vi:"nghĩa vụ",hsk:"四级",group:"A",type:"意义扩展",status:"已测试"},
+ {id:"W002",zh:"忠实",py:"zhōngshí",vi:"trung thực",hsk:"七—九级",group:"A",type:"义项范围／搭配",status:"已测试"},
+ {id:"W003",zh:"忠于",py:"zhōngyú",vi:"trung với",hsk:"七—九级",group:"A",type:"对象指向",status:"已测试"},
+ {id:"W004",zh:"义气",py:"yìqì",vi:"nghĩa khí",hsk:"未收录",group:"A",type:"义项范围",status:"已测试"},
+ {id:"W005",zh:"忠诚",py:"zhōngchéng",vi:"trung thành",hsk:"七—九级",group:"A",type:"基本对应",status:"已测试"},
+ {id:"W006",zh:"正义",py:"zhèngyì",vi:"chính nghĩa",hsk:"五级",group:"A",type:"基本对应",status:"已测试"},
+ {id:"W007",zh:"见义勇为",py:"jiànyì-yǒngwéi",vi:"kiến nghĩa dũng vi",hsk:"七—九级",group:"A",type:"基本对应",status:"已测试"},
+ {id:"W008",zh:"情义",py:"qíngyì",vi:"tình nghĩa",hsk:"未收录",group:"A",type:"基本对应",status:"已测试"},
+ {id:"W009",zh:"忠厚",py:"zhōnghòu",vi:"trung hậu",hsk:"未收录",group:"A",type:"对象指向（待核实）",status:"未测试"},
+ {id:"W010",zh:"忠心",py:"zhōngxīn",vi:"trung tâm (忠心)",hsk:"六级",group:"A",type:"读音干扰（待核实）",status:"未测试"}
+];
+// rel: same=汉越都有 / zh_only=汉有越无 / diff=用法不同
+const senses=[
+ {id:"S001-1",w:"W001",zh:"法律或道德上应尽的责任",vi:"nghĩa vụ：trách nhiệm phải làm",rel:"same",dims:[]},
+ {id:"S001-2",w:"W001",zh:"不要报酬的（义务劳动、义务献血）",vi:"Tiếng Việt không dùng nghĩa vụ cho nghĩa này; nói tình nguyện, không công",rel:"zh_only",dims:["义项范围"],
+  warn:"Thấy 义务 trước động từ (义务教、义务献血) thì thường là <b>không lấy tiền / tình nguyện</b>, không phải “bắt buộc”."},
+ {id:"S002-1",w:"W002",zh:"真实、不歪曲（忠实地反映、忠实于原文）",vi:"trung thực：đúng sự thật",rel:"same",dims:[]},
+ {id:"S002-2",w:"W002",zh:"忠诚可靠，用于支持者（忠实观众、忠实读者）",vi:"Tiếng Việt nói khán giả <i>trung thành</i>, không nói “trung thực”",rel:"zh_only",dims:["义项范围","搭配"],
+  warn:"忠实观众 = khán giả <b>trung thành</b>, không phải khán giả “trung thực / thật thà”."},
+ {id:"S003-1",w:"W003",zh:"忠于祖国、忠于人民",vi:"trung với nước, trung với Đảng",rel:"same",dims:[]},
+ {id:"S003-2",w:"W003",zh:"忠于职守、忠于原著、忠于爱情",vi:"Ít nói “trung với” cho công việc, nguyên tác; thường dùng tận tụy, trung thành với, bám sát",rel:"diff",dims:["对象指向"],
+  warn:"忠于原著 = <b>bám sát nguyên tác</b>; 忠于职守 = <b>tận tụy với công việc</b>. Không nhất thiết mang nghĩa chính trị như “trung với”."},
+ {id:"S004-1",w:"W004",zh:"朋友间讲情谊、肯为朋友出力（讲义气）",vi:"nghĩa khí thiên về khí khái vì chính nghĩa; ít dùng cho tình bạn",rel:"diff",dims:["义项范围"],
+  warn:"讲义气 = <b>sống có tình có nghĩa với bạn bè</b>, gần “nghĩa hiệp / chơi đẹp”, không phải “khí khái chính nghĩa”."},
+ {id:"S005-1",w:"W005",zh:"尽心尽力、不变心",vi:"trung thành：tương ứng",rel:"same",dims:[]},
+ {id:"S006-1",w:"W006",zh:"公正的、有利于人民的道理",vi:"chính nghĩa：tương ứng",rel:"same",dims:[]},
+ {id:"S007-1",w:"W007",zh:"看到正义的事勇敢去做",vi:"kiến nghĩa dũng vi：tương ứng",rel:"same",dims:[]},
+ {id:"S008-1",w:"W008",zh:"亲友、同志间应有的感情",vi:"tình nghĩa：tương ứng",rel:"same",dims:[]},
+ {id:"S009-1",w:"W009",zh:"忠诚厚道，多形容男性、长者",vi:"trung hậu：thường khen phẩm hạnh phụ nữ（待核实）",rel:"diff",dims:["对象指向"],
+  warn:"Đối tượng được khen có thể khác giữa hai ngôn ngữ. Mục này <b>đang chờ kiểm chứng</b>."},
+ {id:"S010-1",w:"W010",zh:"忠诚的心",vi:"Âm Hán Việt trung tâm trùng với 中心, dễ nhầm（待核实）",rel:"diff",dims:["读音"],
+  warn:"Đây là nhiễu do <b>đồng âm</b>, không phải lệch nghĩa."}
+];
+const examples=[
+ {s:"S001-1",lang:"zh",t:"每个公民都应履行纳税的义务。"},{s:"S001-1",lang:"vi",t:"Mọi người có nghĩa vụ nộp thuế theo luật định.（Hiến pháp 2013）"},
+ {s:"S001-2",lang:"zh",t:"周末他去社区义务教老人用手机。"},{s:"S001-2",lang:"zh",t:"很多大学生利用假期到医院义务献血。"},{s:"S001-2",lang:"vi",t:"hiến máu tình nguyện"},
+ {s:"S002-1",lang:"zh",t:"这部纪录片忠实地反映了当时的生活。"},{s:"S002-1",lang:"vi",t:"phản ánh trung thực cuộc sống"},
+ {s:"S002-2",lang:"zh",t:"她是这个节目十年的忠实观众。"},{s:"S002-2",lang:"vi",t:"khán giả trung thành của chương trình"},
+ {s:"S003-1",lang:"zh",t:"军人要忠于祖国、忠于人民。"},{s:"S003-1",lang:"vi",t:"Trung với nước, hiếu với dân."},
+ {s:"S003-2",lang:"zh",t:"这部电影基本忠于原著。"},{s:"S003-2",lang:"zh",t:"她三十年来一直忠于职守。"},{s:"S003-2",lang:"vi",t:"bộ phim bám sát nguyên tác"},
+ {s:"S004-1",lang:"zh",t:"他很讲义气，朋友有困难一定帮。"},{s:"S004-1",lang:"vi",t:"anh ấy sống rất có nghĩa với bạn bè"},
+ {s:"S005-1",lang:"zh",t:"他对公司一直很忠诚。"},{s:"S006-1",lang:"zh",t:"这是一场正义的战争。"},
+ {s:"S007-1",lang:"zh",t:"他见义勇为，救起了落水的孩子。"},{s:"S008-1",lang:"zh",t:"他是个重情义的人。"},
+ {s:"S009-1",lang:"zh",t:"他为人忠厚，从不占别人便宜。"},{s:"S010-1",lang:"zh",t:"他对国家一片忠心。"}
+];
+// 题目取自预测试题库（A 组）；acc / topDistractor 待正式数据
+const items=[
+ {id:2,s:"S001-2",stem:"周末他去社区<u>义务</u>教老人用手机。",opts:["作为责任必须去做","不收报酬地","按规定、有组织地"],ans:1,trap:0},
+ {id:1,s:"S001-1",stem:"每个公民都应履行纳税的<u>义务</u>。",opts:["应尽的责任","不收报酬的","自愿的爱好"],ans:0,trap:null},
+ {id:5,s:"S002-2",stem:"她是这个节目十年的<u>忠实</u>观众。",opts:["诚实、不说谎的","一直支持、不变心的","认真严肃的"],ans:1,trap:0},
+ {id:4,s:"S002-1",stem:"这部纪录片<u>忠实</u>地反映了当时的生活。",opts:["真实、不歪曲地","长期支持、不变心地","热情地"],ans:0,trap:null},
+ {id:8,s:"S003-2",stem:"这部电影基本<u>忠于</u>原著。",opts:["对原著作者很忠诚","内容保持一致，没有大的改动","比原著更受欢迎"],ans:1,trap:0},
+ {id:9,s:"S003-2",stem:"她三十年来一直<u>忠于</u>职守，从没出过差错。",opts:["对国家、政党的忠诚","尽心尽力做好本职工作","一直在同一个岗位上"],ans:1,trap:0},
+ {id:10,s:"S004-1",stem:"他很讲<u>义气</u>，朋友有困难一定帮。",opts:["讲正义、主持公道","看重情谊，愿意为别人出力","讲道理"],ans:1,trap:0},
+ {id:13,s:"S007-1",stem:"他<u>见义勇为</u>，救起了落水的孩子。",opts:["看到正义的事勇敢去做","看到危险马上离开","对朋友讲义气"],ans:0,trap:null}
+];
+const stats={}; // 例：stats["S001-2"]={n:100,acc:.38,trap:.51}
+
+const gist={
+ W001:"义务 còn có nghĩa <b>không lấy tiền, tình nguyện</b> (义务献血). Tiếng Việt “nghĩa vụ” không có nghĩa này.",
+ W002:"忠实观众 là khán giả <b>trung thành</b>, không phải khán giả “trung thực”.",
+ W003:"忠于 dùng được cho cả <b>công việc, nguyên tác, tình yêu</b>, không chỉ cho nước hay Đảng như “trung với”.",
+ W004:"讲义气 là <b>sống có nghĩa với bạn bè</b>, không phải “khí khái vì chính nghĩa”.",
+ W009:"Đối tượng được khen có thể khác giữa hai ngôn ngữ. Mục này đang kiểm chứng.",
+ W010:"Âm Hán Việt của 忠心 trùng với 中心 (trung tâm), dễ nhầm do đồng âm. Mục này đang kiểm chứng."
+};
+const relLabel={same:["Giống tiếng Việt","ok"],zh_only:["Tiếng Việt không có","trap"],diff:["Dùng khác tiếng Việt","trap"]};
+const $=s=>document.querySelector(s), V=$("#view");
+const sensesOf=w=>senses.filter(s=>s.w===w);
+const isTrap=w=>sensesOf(w.id).some(s=>s.rel!=="same");
+function tag(w){
+  if(w.status==="未测试")return '<span class="tag wait">Đang kiểm chứng</span>';
+  return isTrap(w)?'<span class="tag trap">Có bẫy</span>':'<span class="tag ok">Giống tiếng Việt</span>';
+}
+function nav(on){$("#n-look").classList.toggle("on",on==="look");$("#n-quiz").classList.toggle("on",on==="quiz");window.scrollTo(0,0)}
+
+/* Trang chủ */
+function home(){
+  nav("");
+  V.innerHTML=`<div class="wrap" style="padding-top:24px">
+   <h1>Từ Hán Việt <em>trông quen</em>, nhưng nghĩa chưa chắc giống.</h1>
+   <p class="lead">Người Việt học tiếng Trung hay đoán nghĩa theo âm Hán Việt. Phần lớn đoán đúng, nhưng có những từ đoán sai mà không biết. Trang này chỉ ra <b>sai ở nghĩa nào</b> và <b>nên hiểu thế nào</b>.</p>
+   <div class="search"><input id="s" placeholder="Gõ một từ: 义务, nghĩa vụ, yiwu…" aria-label="Tìm từ"></div>
+   <div class="sugg">Thử: ${words.filter(isTrap).slice(0,4).map(w=>`<button class="chip trap" data-go="${w.id}"><span class="h">${w.zh}</span> ${w.vi}</button>`).join("")}</div>
+   <p class="lbl">Ví dụ</p>
+   <div class="demo">
+     <div class="w"><span class="han big">义务</span><span style="color:var(--muted)">yìwù · nghĩa vụ</span></div>
+     <div class="box think"><b class="t">Bạn sẽ nghĩ</b>“Nghĩa vụ”, tức việc bắt buộc phải làm.</div>
+     <div class="box real"><b class="t">Nhưng trong câu này</b><span class="han">他周末去社区<u>义务</u>教老人用手机。</span><br>义务 = <b>không lấy tiền, tình nguyện</b>.</div>
+   </div>
+   <div class="ways">
+     <button class="way" id="w-look"><b>Tra một từ</b><span>Xem từng nghĩa Hán–Việt đặt cạnh nhau, có câu ví dụ.</span><span class="go">Mở danh sách →</span></button>
+     <button class="way" id="w-quiz"><b>Tôi có bị “bẫy” không?</b><span>8 câu, khoảng 2 phút. Biết ngay mình hay hiểu lệch ở đâu.</span><span class="go">Bắt đầu →</span></button>
+   </div>
+   <div class="who">
+     <div><b>Người học</b><p>Biết từ nào không được đoán theo tiếng Việt, học đúng nghĩa trước khi dùng sai.</p></div>
+     <div><b>Giáo viên</b><p>Biết trước chỗ học sinh Việt dễ hiểu sai, có sẵn câu ví dụ đối chiếu để dạy.</p></div>
+   </div></div>`;
+  $("#s").addEventListener("keydown",e=>{if(e.key==="Enter")list(e.target.value)});
+  $("#s").addEventListener("input",e=>{if(e.target.value.trim())list(e.target.value,true)});
+  $("#w-look").onclick=()=>list("");$("#w-quiz").onclick=quizStart;
+}
+
+/* Danh sách */
+function list(q="",keepFocus){
+  nav("look");
+  V.innerHTML=`<div class="wrap" style="padding-top:20px">
+   <div class="search"><input id="s2" value="${q.replace(/"/g,"")}" placeholder="Gõ chữ Hán, tiếng Việt hoặc pinyin" aria-label="Tìm từ"></div>
+   <div class="list" id="rows"></div></div>`;
+  const inp=$("#s2");
+  const draw=()=>{const k=inp.value.trim().toLowerCase();
+    const r=words.filter(w=>!k||[w.zh,w.vi,w.py].join(" ").toLowerCase().includes(k));
+    $("#rows").innerHTML=r.length?r.map(w=>`<button class="row" data-go="${w.id}"><span><span class="h">${w.zh}</span><span class="v">${w.vi}</span></span>${tag(w)}</button>`).join(""):'<p style="padding:14px 16px;margin:0;color:var(--muted)">Chưa có từ này. Bản mẫu hiện có 10 từ thuộc nhóm 忠/义.</p>';};
+  inp.addEventListener("input",draw);draw();
+  if(keepFocus){inp.focus();inp.setSelectionRange(inp.value.length,inp.value.length)}
+}
+
+/* Trang từ */
+function word(id){
+  nav("look");
+  const w=words.find(x=>x.id===id),ss=sensesOf(id),trap=isTrap(w);
+  const ex=(s,l)=>examples.filter(e=>e.s===s.id&&e.lang===l).map(e=>`<li class="${l==="zh"?"han":""}">${e.t}</li>`).join("");
+  const on=new Set(ss.flatMap(s=>s.dims));
+  V.innerHTML=`<div class="wrap" style="padding-top:20px">
+   <button class="back" id="bk">← Danh sách từ</button>
+   <div class="whead"><span class="han big">${w.zh}</span><span class="m">${w.py} · Hán Việt: <b style="color:var(--ink)">${w.vi}</b> · HSK ${w.hsk}</span>${tag(w)}</div>
+   <div class="verdict ${w.status==="未测试"?"wait":trap?"trap":"ok"}">${gist[id]||"Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt."}</div>
+   <p class="lbl">${ss.length} nghĩa</p>
+   ${ss.map((s,i)=>{const [lb,c]=relLabel[s.rel];return `<div class="sense ${c==="trap"?"trap":""}">
+     <div class="sh"><b>Nghĩa ${i+1}</b><span class="tag ${c}">${lb}</span></div>
+     <div class="two"><div class="box think"><b class="t">Tiếng Trung</b><span class="han">${s.zh}</span><ul class="ex">${ex(s,"zh")}</ul></div>
+     <div class="box ${c==="trap"?"real":"think"}"><b class="t">Tiếng Việt</b>${s.vi}${ex(s,"vi")?`<ul class="ex">${ex(s,"vi")}</ul>`:""}</div></div></div>`}).join("")}
+   <details><summary>Dành cho giáo viên và nghiên cứu</summary>
+     <div class="dims">${["对象指向","义项范围","色彩","搭配"].map(d=>`<span class="dim ${on.has(d)?"on":""}">${d}</span>`).join("")}</div>
+     <p style="margin:10px 0 0">Loại lệch: ${w.type} · Nhóm ${w.group} · Mã: ${w.id} / ${ss.map(s=>s.id).join(", ")}</p>
+     <p style="margin:4px 0 0">Dữ liệu người học: ${ss.map(s=>stats[s.id]?`${s.id} đúng ${Math.round(stats[s.id].acc*100)}% (n=${stats[s.id].n})`:null).filter(Boolean).join("; ")||"sẽ cập nhật sau khảo sát chính thức"}.</p>
+   </details></div>`;
+  $("#bk").onclick=()=>list("");
+}
+
+/* Tự kiểm tra */
+let qi=0,score=0,log=[];
+function quizStart(){qi=0;score=0;log=[];nav("quiz");renderQ()}
+function renderQ(){
+  if(qi>=items.length)return result();
+  const it=items[qi];
+  V.innerHTML=`<div class="wrap" style="padding-top:20px"><div class="card">
+   <div class="sh"><span class="lbl">Câu ${qi+1}/${items.length}</span><span class="lbl">Từ gạch chân nghĩa là gì?</span></div>
+   <div class="bar"><i style="width:${qi/items.length*100}%"></i></div>
+   <p class="q">${it.stem}</p>
+   <div class="opts">${it.opts.map((o,i)=>`<button class="opt" data-i="${i}"><span class="han">${o}</span></button>`).join("")}</div>
+   <div id="fb"></div></div></div>`;
+}
+function result(){
+  const traps=log.filter(l=>l.trap).length;
+  const ws=[...new Set(log.filter(l=>!l.ok).map(l=>senses.find(s=>s.id===l.it.s).w))];
+  V.innerHTML=`<div class="wrap" style="padding-top:20px"><div class="card">
+   <span class="lbl">Kết quả</span><span class="score">${score}/${items.length}</span>
+   <p style="margin:0">${traps?`Có <b>${traps}</b> câu bạn hiểu theo nghĩa tiếng Việt. Đó chính là “bẫy” Hán Việt.`:"Bạn không mắc bẫy Hán Việt nào. Rất tốt!"}</p>
+   ${ws.length?`<div><p class="lbl">Nên xem lại</p><div class="sugg" style="margin-top:6px">${ws.map(id=>{const w=words.find(x=>x.id===id);return `<button class="chip trap" data-go="${id}"><span class="h">${w.zh}</span> ${w.vi}</button>`}).join("")}</div></div>`:""}
+   <button class="btn ghost" id="again">Làm lại</button></div></div>`;
+}
+V.addEventListener("click",e=>{
+  const g=e.target.closest("[data-go]");if(g)return word(g.dataset.go);
+  const o=e.target.closest(".opt");
+  if(o&&!o.disabled){
+    const it=items[qi],i=+o.dataset.i,ok=i===it.ans,trap=!ok&&i===it.trap;
+    if(ok)score++;log.push({it,ok,trap});
+    document.querySelectorAll(".opt").forEach((b,k)=>{b.disabled=true;if(k===it.ans)b.classList.add("right");else if(k===i)b.classList.add("wrong")});
+    const s=senses.find(x=>x.id===it.s);
+    $("#fb").innerHTML=`<div class="fb ${ok?"r":"w"}">${ok?"<b>Đúng.</b> ":trap?"<b>Bạn đã hiểu theo nghĩa tiếng Việt.</b> ":"<b>Chưa đúng.</b> "}${s.warn||""}</div>
+     <div style="display:flex;justify-content:flex-end;margin-top:12px"><button class="btn" id="next">${qi+1<items.length?"Câu tiếp →":"Xem kết quả"}</button></div>`;
+    return;
+  }
+  if(e.target.id==="next"){qi++;renderQ()}
+  if(e.target.id==="again")quizStart();
+});
+$("#home").onclick=home;$("#n-look").onclick=()=>list("");$("#n-quiz").onclick=quizStart;
+home();
+</script>

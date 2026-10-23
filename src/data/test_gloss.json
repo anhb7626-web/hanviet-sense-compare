@@ -1,0 +1,452 @@
+{
+  "T002": {
+    "vi": "Cuối tuần anh ấy đến cộng đồng 义务 dạy người già dùng điện thoại.",
+    "draft": true,
+    "options_py": [
+      "zuò wéi zé rèn bì xū qù zuò",
+      "bù shōu bào chóu de",
+      "àn guī dìng、yǒu zǔ zhī de"
+    ]
+  },
+  "T001": {
+    "vi": "Mỗi công dân đều phải thực hiện 义务 nộp thuế.",
+    "draft": true,
+    "options_py": [
+      "yīng jìn de zé rèn",
+      "bù shōu bào chóu de",
+      "zì yuàn de ài hào"
+    ]
+  },
+  "T005": {
+    "vi": "Cô ấy là khán giả 忠实 mười năm của chương trình này.",
+    "draft": true,
+    "options_py": [
+      "chéng shí、bù shuō huǎng de",
+      "yì zhí zhī chí、bú biàn xīn de",
+      "rèn zhēn yán sù de"
+    ]
+  },
+  "T004": {
+    "vi": "Bộ phim tài liệu này 忠实 phản ánh cuộc sống lúc đó.",
+    "draft": true,
+    "options_py": [
+      "zhēn shí、bù wāi qū de",
+      "cháng qī zhī chí、bú biàn xīn de",
+      "rè qíng de"
+    ]
+  },
+  "T008": {
+    "vi": "Bộ phim cơ bản 忠于 nguyên tác.",
+    "draft": true,
+    "options_py": [
+      "duì yuán zhù zuò zhě hěn zhōng chéng",
+      "nèi róng bǎo chí yí zhì，méi yǒu dà de gǎi dòng",
+      "bǐ yuán zhù gèng shòu huān yíng"
+    ]
+  },
+  "T009": {
+    "vi": "Ba mươi năm nay cô ấy luôn 忠于职守, chưa từng sai sót.",
+    "draft": true,
+    "options_py": [
+      "duì guó jiā、zhèng dǎng de zhōng chéng",
+      "jìn xīn jìn lì zuò hǎo běn zhí gōng zuò",
+      "yì zhí zài tóng yí gè gǎng wèi shàng"
+    ]
+  },
+  "T010": {
+    "vi": "Anh ấy rất 讲义气; bạn khó khăn là giúp.",
+    "draft": true,
+    "options_py": [
+      "jiǎng zhèng yì、zhǔ chí gōng dào",
+      "kàn zhòng qíng yì，yuàn yì wèi bié rén chū lì",
+      "jiǎng dào lǐ"
+    ]
+  },
+  "T013": {
+    "vi": "Anh ấy 见义勇为, cứu đứa trẻ đuối nước.",
+    "draft": true,
+    "options_py": [
+      "kàn dào zhèng yì de shì yǒng gǎn qù zuò",
+      "kàn dào wēi xiǎn mǎ shàng lí kāi",
+      "duì péng yǒu jiǎng yì qì"
+    ]
+  },
+  "F01": {
+    "draft": true,
+    "options_py": [
+      "zuì hòu de qíng kuàng",
+      "yuán yīn",
+      "kāi shǐ"
+    ],
+    "vi": "Đây là 结果 của cuộc thí nghiệm."
+  },
+  "F02": {
+    "draft": true,
+    "options_py": [
+      "bǎo xiǎn gōng sī de yè wù",
+      "ān quán",
+      "wěn tuǒ、kě kào"
+    ],
+    "vi": "Đi đường này rất 保险."
+  },
+  "F03": {
+    "draft": true,
+    "options_py": [
+      "bǎo cún xué jí、chéng jì （xiū xué）",
+      "gōng kāi fā biǎo",
+      "zàn bù biǎo shì tóng yì，jiān chí zì jǐ de kàn fǎ"
+    ],
+    "vi": "Tôi xin 保留 ý kiến của mình."
+  },
+  "F04": {
+    "draft": true,
+    "options_py": [
+      "biǎo shì huǐ guò de shū miàn cái liào",
+      "tǐ jiǎn bào gào",
+      "cè yàn、kǎo shì"
+    ],
+    "vi": "Tuần sau có 检查 sức khỏe."
+  },
+  "F05": {
+    "draft": true,
+    "options_py": [
+      "kān dēng，gōng kāi chū bǎn",
+      "fān yì",
+      "zài huì shàng fā yán"
+    ],
+    "vi": "Giám đốc sẽ 发表 diễn văn tại hội nghị."
+  },
+  "F06": {
+    "draft": true,
+    "options_py": [
+      "zhàn de zhù，yǒu gēn jù",
+      "bèi tóu piào tōng guò",
+      "jiàn lì zǔ zhī、jī gòu"
+    ],
+    "vi": "Công ty này mới 成立 năm ngoái."
+  },
+  "F09": {
+    "draft": true,
+    "options_py": [
+      "zì rán shēng tài",
+      "zhōu wéi de tiáo jiàn hé qíng kuàng",
+      "gè rén de chǔ jìng、zāo yù"
+    ],
+    "vi": "Anh ấy sống trong 环境 rất ồn ào."
+  },
+  "F10": {
+    "draft": true,
+    "options_py": [
+      "cóng shí jiàn zhōng dé dào de zhī shi huò jì néng",
+      "xìng qù",
+      "zhèng shū"
+    ],
+    "vi": "Cô ấy có nhiều 经验 giảng dạy."
+  },
+  "F11": {
+    "draft": true,
+    "options_py": [
+      "bǎ shuǐ píng、néng lì biǎo xiàn chū lái",
+      "fā yáng chuán tǒng、yōu diǎn",
+      "fā míng"
+    ],
+    "vi": "Cần 发挥 ưu điểm của mỗi người."
+  },
+  "F12": {
+    "draft": true,
+    "options_py": [
+      "jiǎn chá",
+      "dān xīn hài pà",
+      "bǎ …… fàng zài xīn shàng，zhòng shì"
+    ],
+    "vi": "Cha mẹ rất 关心 việc học của con."
+  },
+  "F16": {
+    "draft": true,
+    "options_py": [
+      "tuī guǎng、jiè shào",
+      "chuán dá zhèng zhì lù xiàn、dòng yuán qún zhòng",
+      "chū shòu"
+    ],
+    "vi": "Tờ báo này 宣传 chính sách mới."
+  },
+  "F17": {
+    "draft": true,
+    "options_py": [
+      "shēng qì",
+      "gǎn qíng qiáng liè、xīng fèn",
+      "shān dòng bié rén nào shì"
+    ],
+    "vi": "Bài nói của anh ấy 激动 cả hội trường."
+  },
+  "F19": {
+    "draft": true,
+    "options_py": [
+      "bǎo hù shēn tǐ、pí fū",
+      "dǎ bàn",
+      "wéi xiū jī qì、chē liàng"
+    ],
+    "vi": "Xe này cần 保养 định kỳ."
+  },
+  "F21": {
+    "draft": true,
+    "options_py": [
+      "kǒu tóu chuán huà、dāng kǒu yì",
+      "bǎ shū miàn wén zì yì chéng lìng yì zhǒng yǔ yán",
+      "biān xiě"
+    ],
+    "vi": "Cô ấy làm 翻译 tại công ty."
+  },
+  "F22": {
+    "draft": true,
+    "options_py": [
+      "jiě jué",
+      "zhēng chǎo",
+      "jiāo huàn yì jiàn、shāng liáng"
+    ],
+    "vi": "Hai bên đang 讨论 kế hoạch hợp tác."
+  },
+  "F23": {
+    "draft": true,
+    "options_py": [
+      "fēn kāi jū zhù",
+      "qū fēn、biàn bié",
+      "lí bié"
+    ],
+    "vi": "Sau tốt nghiệp chúng tôi đã 分别 mười năm."
+  },
+  "F25": {
+    "draft": true,
+    "options_py": [
+      "shù liàng bú gòu，duǎn quē",
+      "xīn lǐ bù ān",
+      "jià gé hěn guì"
+    ],
+    "vi": "Thời gian rất 紧张, hãy nhanh lên."
+  },
+  "F26": {
+    "draft": true,
+    "options_py": [
+      "jī jí zuò yòng、yì yì",
+      "jià gé",
+      "yǒu xiào qī"
+    ],
+    "vi": "Cuốn sách này có 价值 tham khảo."
+  },
+  "F27": {
+    "draft": true,
+    "options_py": [
+      "tǐ jī",
+      "chǎn pǐn hǎo huài de chéng dù",
+      "suǒ hán wù zhì de duō shǎo"
+    ],
+    "vi": "Sản phẩm này 质量 rất tốt."
+  },
+  "F29": {
+    "draft": true,
+    "options_py": [
+      "bèi chuán dá、tuī guǎng",
+      "cún zài guǎng fàn、hěn cháng jiàn",
+      "hěn liú xíng、shí shàng"
+    ],
+    "vi": "Cách nói này rất 普遍."
+  },
+  "F30": {
+    "draft": true,
+    "options_py": [
+      "fǎ lǜ shàng de jiān hù、bǎo hù mào yì",
+      "zhào gù，shǐ bú shòu sǔn hài",
+      "mǎi bǎo xiǎn"
+    ],
+    "vi": "Pháp luật 保护 quyền lợi người tiêu dùng."
+  },
+  "F33": {
+    "draft": true,
+    "options_py": [
+      "zhōng xiǎo xué de xué shēng",
+      "zài gè jí xué xiào dú shū de rén",
+      "xué tú"
+    ],
+    "vi": "Em ấy là 学生 của trường này."
+  },
+  "F34": {
+    "draft": true,
+    "options_py": [
+      "yī shēng",
+      "zhàng fu",
+      "lǎo shī"
+    ],
+    "vi": "先生 của cô ấy làm việc ở ngân hàng."
+  },
+  "F35": {
+    "draft": true,
+    "options_py": [
+      "méi yǒu wēi xiǎn",
+      "hěn ān jìng",
+      "hěn gān jìng"
+    ],
+    "vi": "Ở đây rất 安全."
+  },
+  "F37": {
+    "draft": true,
+    "options_py": [
+      "shén jīng",
+      "sī xiǎng、yì shí",
+      "yǒu huó lì、yǒu shēng qì"
+    ],
+    "vi": "Cần có 精神 học tập."
+  },
+  "F38": {
+    "draft": true,
+    "options_py": [
+      "wēi xiǎn",
+      "hé shì de shí jī",
+      "yùn qì bù hǎo"
+    ],
+    "vi": "Đây là một 机会 tốt."
+  },
+  "F39": {
+    "draft": true,
+    "options_py": [
+      "fāng fǎ、bàn fǎ",
+      "gōng jù",
+      "bú zhèng dāng de jì liǎng"
+    ],
+    "vi": "Không được dùng 手段 bất chính."
+  },
+  "F40": {
+    "draft": true,
+    "options_py": [
+      "jīng guò péi yǎng hòu jiē nà jiā rù zǔ zhī",
+      "tí shēng zhí wèi",
+      "shēn tǐ fā yù"
+    ],
+    "vi": "Cơ thể trẻ em đang 发展."
+  },
+  "F41": {
+    "draft": true,
+    "options_py": [
+      "qù mǒu dì fǎng wèn",
+      "tuō lí zǔ zhī、nào fēn liè",
+      "cóng mǒu dì zǒu kāi，bú zài nà lǐ"
+    ],
+    "vi": "Anh ấy đã 离开 công ty."
+  },
+  "F42": {
+    "draft": true,
+    "options_py": [
+      "kāi chē de rén",
+      "bù xíng jīng guò de rén",
+      "chū yuǎn mén de lǚ rén"
+    ],
+    "vi": "Xin 行人 chú ý an toàn."
+  },
+  "F43": {
+    "draft": true,
+    "options_py": [
+      "xiāo shī",
+      "xiǎn lù chū lái",
+      "biàn huà"
+    ],
+    "vi": "Vấn đề mới 出现 tuần này."
+  },
+  "F44": {
+    "draft": true,
+    "options_py": [
+      "gòu mǎi",
+      "yán zhì、shè jì chū xīn chǎn pǐn",
+      "kāi cǎi tǔ dì、kuàng cáng"
+    ],
+    "vi": "Họ đang 开发 sản phẩm mới."
+  },
+  "F46": {
+    "draft": true,
+    "options_py": [
+      "guī dìng",
+      "jià gé",
+      "yǐng xiǎng shì wù de huán jìng、yīn sù"
+    ],
+    "vi": "Cần có đủ 条件 mới làm được."
+  },
+  "F48": {
+    "draft": true,
+    "options_py": [
+      "jié rì",
+      "bō chū de lán mù hé nèi róng",
+      "wǔ tái shàng de yí gè biǎo yǎn xiàng mù"
+    ],
+    "vi": "Tối nay có 节目 hay."
+  },
+  "F49": {
+    "draft": true,
+    "options_py": [
+      "jiān gù",
+      "chéng shí、bù xū jiǎ",
+      "xiàn shí cún zài de"
+    ],
+    "vi": "Anh ấy người rất 实在."
+  },
+  "F50": {
+    "draft": true,
+    "options_py": [
+      "gǎi shàn",
+      "bǎo chí lián xì、xí guàn",
+      "shǐ jì xù bǎo chí bú biàn"
+    ],
+    "vi": "Cần 维持 trật tự trong lớp."
+  },
+  "F08": {
+    "draft": true,
+    "options_py": [
+      "kàn zhòng miàn zi",
+      "kàn zhòng ài qíng",
+      "kàn zhòng qīn yǒu zhī jiān de gǎn qíng yǔ dào yì"
+    ],
+    "vi": "Anh ấy rất coi trọng 情义 giữa bạn bè."
+  },
+  "F14": {
+    "draft": true,
+    "options_py": [
+      "gōng zhèng、hé hū dào yì de",
+      "guī mó hěn dà de",
+      "zhèng shì de"
+    ],
+    "vi": "Đó là một việc 正义."
+  },
+  "F18": {
+    "draft": true,
+    "options_py": [
+      "duì …… jìn xīn jìn lì、bú bèi pàn",
+      "yǔ …… nèi róng bǎo chí yí zhì",
+      "xǐ huan"
+    ],
+    "vi": "Ba mươi năm nay cô ấy luôn 忠于职守."
+  },
+  "F20": {
+    "draft": true,
+    "options_py": [
+      "chéng shí",
+      "yán gé",
+      "jìn xīn jìn lì、bú biàn xīn"
+    ],
+    "vi": "Anh ấy đối với công ty luôn rất 忠诚."
+  },
+  "F36": {
+    "draft": true,
+    "options_py": [
+      "bú yào bào chóu、zì yuàn de",
+      "zuò wéi gōng mín bì xū wán chéng de rèn wu",
+      "yóu dān wèi ān pái de"
+    ],
+    "vi": "Nhiều sinh viên nhân kỳ nghỉ đến bệnh viện 义务献血."
+  },
+  "F45": {
+    "draft": true,
+    "options_py": [
+      "cháng qī zhī chí、yì zhí xǐ ài de",
+      "rèn zhēn zǐ xì de",
+      "chéng shí、bù shuō huǎng de"
+    ],
+    "vi": "Cô ấy là khán giả 忠实 của chương trình này."
+  }
+}

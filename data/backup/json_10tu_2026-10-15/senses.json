@@ -1,0 +1,144 @@
+[
+  {
+    "id": "S001-1",
+    "wordId": "W001",
+    "def_zh": "法律或道德上应尽的责任",
+    "def_vi": "nghĩa vụ：trách nhiệm phải làm",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》；Hiến pháp Việt Nam 2013"
+  },
+  {
+    "id": "S001-2",
+    "wordId": "W001",
+    "def_zh": "不要报酬的（义务劳动、义务献血）",
+    "def_vi": "Tiếng Việt không dùng nghĩa vụ cho nghĩa này; nói tình nguyện, không công",
+    "relation": "zh_only",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "《现代汉语词典》义项；ngữ liệu giáo dục cộng đồng",
+    "warn_vi": "Thấy 义务 trước động từ (义务教、义务献血) thì thường là <b>không lấy tiền / tình nguyện</b>, không phải “bắt buộc”.",
+    "warn_zh": "义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。"
+  },
+  {
+    "id": "S002-1",
+    "wordId": "W002",
+    "def_zh": "真实、不歪曲（忠实地反映、忠实于原文）",
+    "def_vi": "trung thực：đúng sự thật",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S002-2",
+    "wordId": "W002",
+    "def_zh": "忠诚可靠，用于支持者（忠实观众、忠实读者）",
+    "def_vi": "Tiếng Việt nói khán giả <i>trung thành</i>, không nói “trung thực”",
+    "relation": "zh_only",
+    "dims": [
+      "义项范围",
+      "搭配"
+    ],
+    "basis": "《现代汉语词典》搭配；đối chiếu tiếng Việt",
+    "warn_vi": "忠实观众 = khán giả <b>trung thành</b>, không phải khán giả “trung thực / thật thà”.",
+    "warn_zh": "忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。"
+  },
+  {
+    "id": "S003-1",
+    "wordId": "W003",
+    "def_zh": "忠于祖国、忠于人民",
+    "def_vi": "trung với nước, trung với Đảng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》；ngữ liệu chính trị"
+  },
+  {
+    "id": "S003-2",
+    "wordId": "W003",
+    "def_zh": "忠于职守、忠于原著、忠于爱情",
+    "def_vi": "Ít nói “trung với” cho công việc, nguyên tác; thường dùng tận tụy, trung thành với, bám sát",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "《现代汉语词典》搭配；khảo sát sơ bộ người học",
+    "warn_vi": "忠于原著 = <b>bám sát nguyên tác</b>; 忠于职守 = <b>tận tụy với công việc</b>. Không nhất thiết mang nghĩa chính trị như “trung với”.",
+    "warn_zh": "忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。"
+  },
+  {
+    "id": "S004-1",
+    "wordId": "W004",
+    "def_zh": "朋友间讲情谊、肯为朋友出力（讲义气）",
+    "def_vi": "nghĩa khí thiên về khí khái vì chính nghĩa; ít dùng cho tình bạn",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "《现代汉语词典》；đối chiếu từ điển Việt",
+    "warn_vi": "讲义气 = <b>sống có tình có nghĩa với bạn bè</b>, gần “nghĩa hiệp / chơi đẹp”, không phải “khí khái chính nghĩa”.",
+    "warn_zh": "讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。"
+  },
+  {
+    "id": "S005-1",
+    "wordId": "W005",
+    "def_zh": "尽心尽力、不变心",
+    "def_vi": "trung thành：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S006-1",
+    "wordId": "W006",
+    "def_zh": "公正的、有利于人民的道理",
+    "def_vi": "chính nghĩa：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S007-1",
+    "wordId": "W007",
+    "def_zh": "看到正义的事勇敢去做",
+    "def_vi": "kiến nghĩa dũng vi：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S008-1",
+    "wordId": "W008",
+    "def_zh": "亲友、同志间应有的感情",
+    "def_vi": "tình nghĩa：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S009-1",
+    "wordId": "W009",
+    "def_zh": "忠诚厚道，多形容男性、长者",
+    "def_vi": "trung hậu：thường khen phẩm hạnh phụ nữ（待核实）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "待核实：đối chiếu từ điển / khảo sát",
+    "warn_vi": "Đối tượng được khen có thể khác giữa hai ngôn ngữ. Mục này <b>đang chờ kiểm chứng</b>.",
+    "warn_zh": "褒奖对象可能因语言而异。本条待核实。"
+  },
+  {
+    "id": "S010-1",
+    "wordId": "W010",
+    "def_zh": "忠诚的心",
+    "def_vi": "Âm Hán Việt trung tâm trùng với 中心, dễ nhầm（待核实）",
+    "relation": "diff",
+    "dims": [
+      "读音"
+    ],
+    "basis": "待核实：đồng âm Hán Việt",
+    "warn_vi": "Đây là nhiễu do <b>đồng âm</b>, không phải lệch nghĩa.",
+    "warn_zh": "这是同音干扰，不是义项偏移。"
+  }
+]

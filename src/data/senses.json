@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "S001-1",
+    "wordId": "W001",
+    "def_zh": "法律或道德上应尽的责任",
+    "def_vi": "nghĩa vụ：trách nhiệm phải làm",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》；Hiến pháp Việt Nam 2013"
+  },
+  {
+    "id": "S001-2",
+    "wordId": "W001",
+    "def_zh": "不要报酬的（义务劳动、义务献血）",
+    "def_vi": "Tiếng Việt không dùng nghĩa vụ cho nghĩa này; nói tình nguyện, không công",
+    "relation": "zh_only",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "《现代汉语词典》义项；ngữ liệu giáo dục cộng đồng",
+    "warn_vi": "Thấy 义务 trước động từ (义务教、义务献血) thì thường là <b>không lấy tiền / tình nguyện</b>, không phải “bắt buộc”.",
+    "warn_zh": "TODO: 义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。"
+  },
+  {
+    "id": "S002-1",
+    "wordId": "W002",
+    "def_zh": "真实、不歪曲（忠实地反映、忠实于原文）",
+    "def_vi": "trung thực：đúng sự thật",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S002-2",
+    "wordId": "W002",
+    "def_zh": "忠诚可靠，用于支持者（忠实观众、忠实读者）",
+    "def_vi": "Tiếng Việt nói khán giả <i>trung thành</i>, không nói “trung thực”",
+    "relation": "zh_only",
+    "dims": [
+      "义项范围",
+      "搭配"
+    ],
+    "basis": "《现代汉语词典》搭配；đối chiếu tiếng Việt",
+    "warn_vi": "忠实观众 = khán giả <b>trung thành</b>, không phải khán giả “trung thực / thật thà”.",
+    "warn_zh": "TODO: 忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。"
+  },
+  {
+    "id": "S003-1",
+    "wordId": "W003",
+    "def_zh": "忠于祖国、忠于人民",
+    "def_vi": "trung với nước, trung với Đảng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》；ngữ liệu chính trị"
+  },
+  {
+    "id": "S003-2",
+    "wordId": "W003",
+    "def_zh": "忠于职守、忠于原著、忠于爱情",
+    "def_vi": "Ít nói “trung với” cho công việc, nguyên tác; thường dùng tận tụy, trung thành với, bám sát",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "《现代汉语词典》搭配；khảo sát sơ bộ người học",
+    "warn_vi": "忠于原著 = <b>bám sát nguyên tác</b>; 忠于职守 = <b>tận tụy với công việc</b>. Không nhất thiết mang nghĩa chính trị như “trung với”.",
+    "warn_zh": "TODO: 忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。"
+  },
+  {
+    "id": "S004-1",
+    "wordId": "W004",
+    "def_zh": "朋友间讲情谊、肯为朋友出力（讲义气）",
+    "def_vi": "nghĩa khí thiên về khí khái vì chính nghĩa; ít dùng cho tình bạn",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "《现代汉语词典》；đối chiếu từ điển Việt",
+    "warn_vi": "讲义气 = <b>sống có tình có nghĩa với bạn bè</b>, gần “nghĩa hiệp / chơi đẹp”, không phải “khí khái chính nghĩa”.",
+    "warn_zh": "TODO: 讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。"
+  },
+  {
+    "id": "S005-1",
+    "wordId": "W005",
+    "def_zh": "尽心尽力、不变心",
+    "def_vi": "trung thành：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S006-1",
+    "wordId": "W006",
+    "def_zh": "公正的、有利于人民的道理",
+    "def_vi": "chính nghĩa：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S007-1",
+    "wordId": "W007",
+    "def_zh": "看到正义的事勇敢去做",
+    "def_vi": "kiến nghĩa dũng vi：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S008-1",
+    "wordId": "W008",
+    "def_zh": "亲友、同志间应有的感情",
+    "def_vi": "tình nghĩa：tương ứng",
+    "relation": "same",
+    "dims": [],
+    "basis": "《现代汉语词典》"
+  },
+  {
+    "id": "S009-1",
+    "wordId": "W009",
+    "def_zh": "忠诚厚道，多形容男性、长者",
+    "def_vi": "trung hậu：thường khen phẩm hạnh phụ nữ（待核实）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "待核实：đối chiếu từ điển / khảo sát",
+    "warn_vi": "Đối tượng được khen có thể khác giữa hai ngôn ngữ. Mục này <b>đang chờ kiểm chứng</b>.",
+    "warn_zh": "TODO: 褒奖对象可能因语言而异。本条待核实。"
+  },
+  {
+    "id": "S010-1",
+    "wordId": "W010",
+    "def_zh": "忠诚的心",
+    "def_vi": "Âm Hán Việt trung tâm trùng với 中心, dễ nhầm（待核实）",
+    "relation": "diff",
+    "dims": [
+      "读音"
+    ],
+    "basis": "待核实：đồng âm Hán Việt",
+    "warn_vi": "Đây là nhiễu do <b>đồng âm</b>, không phải lệch nghĩa.",
+    "warn_zh": "TODO: 这是同音干扰，不是义项偏移。"
+  },
+  {
+    "id": "S011-1",
+    "wordId": "W011",
+    "def_zh": "最后的情况",
+    "def_vi": "kết quả",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S012-1",
+    "wordId": "W012",
+    "def_zh": "保险业务",
+    "def_vi": "bảo hiểm",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S012-2",
+    "wordId": "W012",
+    "def_zh": "稳妥、可靠",
+    "def_vi": "Tiếng Việt “bảo hiểm” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "为了保险起见 nghĩa là <b>cho chắc ăn, cho an toàn</b>, không liên quan đến công ty bảo hiểm.",
+    "warn_zh": "“保险”可作形容词，义为稳妥；越南语 bảo hiểm 只指保险业务。"
+  },
+  {
+    "id": "S013-1",
+    "wordId": "W013",
+    "def_zh": "保存不变",
+    "def_vi": "bảo lưu",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S013-2",
+    "wordId": "W013",
+    "def_zh": "暂不表示同意，坚持自己的看法",
+    "def_vi": "Tiếng Việt “bảo lưu” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "保留意见 là <b>giữ ý kiến riêng, chưa đồng ý</b>. Tiếng Việt “bảo lưu” hay dùng cho bảo lưu kết quả học tập.",
+    "warn_zh": "“保留意见”指暂不同意；越南语 bảo lưu 常指保留学籍、成绩。"
+  },
+  {
+    "id": "S014-1",
+    "wordId": "W014",
+    "def_zh": "检验、查看（身体、作业）",
+    "def_vi": "kiểm tra",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S014-2",
+    "wordId": "W014",
+    "def_zh": "表示悔过的书面材料",
+    "def_vi": "Tiếng Việt “kiểm tra” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "写检查 là viết <b>bản kiểm điểm</b>. Tiếng Việt “kiểm tra” thường hiểu thành “bài kiểm tra, bài thi”.",
+    "warn_zh": "“检查”可指表示悔过的书面材料；越南语 kiểm tra 常指测验、考试。"
+  },
+  {
+    "id": "S015-1",
+    "wordId": "W015",
+    "def_zh": "公开发表意见",
+    "def_vi": "phát biểu (ý kiến)",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S015-2",
+    "wordId": "W015",
+    "def_zh": "刊登，公开出版",
+    "def_vi": "Tiếng Việt “phát biểu” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "发表文章 là <b>đăng bài, công bố</b>. Tiếng Việt “phát biểu” chỉ là nói trước đám đông.",
+    "warn_zh": "“发表”可指刊登文章；越南语 phát biểu 只指当众发言。"
+  },
+  {
+    "id": "S016-1",
+    "wordId": "W016",
+    "def_zh": "建立组织",
+    "def_vi": "thành lập",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S016-2",
+    "wordId": "W016",
+    "def_zh": "站得住，有根据",
+    "def_vi": "Tiếng Việt “thành lập” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "理由不能成立 là lý do <b>không đứng vững, không có căn cứ</b>.",
+    "warn_zh": "“成立”可指理由站得住；越南语 thành lập 只指建立。"
+  },
+  {
+    "id": "S017-1",
+    "wordId": "W017",
+    "def_zh": "周围的情况和条件",
+    "def_vi": "môi trường",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S017-2",
+    "wordId": "W017",
+    "def_zh": "周围的条件和情况",
+    "def_vi": "Tiếng Việt “hoàn cảnh” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "环境 là <b>môi trường</b>. Âm Hán Việt “hoàn cảnh” lại có nghĩa là tình cảnh, hoàn cảnh sống.",
+    "warn_zh": "“环境”对应越南语 môi trường；越南语 hoàn cảnh 指处境、境况。"
+  },
+  {
+    "id": "S018-1",
+    "wordId": "W018",
+    "def_zh": "从实践中得到的知识或技能",
+    "def_vi": "kinh nghiệm",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S019-1",
+    "wordId": "W019",
+    "def_zh": "发挥作用、才能",
+    "def_vi": "phát huy",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S019-2",
+    "wordId": "W019",
+    "def_zh": "把水平、能力表现出来",
+    "def_vi": "Tiếng Việt “phát huy” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "搭配"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "发挥得很好 là <b>thể hiện được năng lực</b> (khi thi đấu, thi cử). Tiếng Việt “phát huy” thường đi với truyền thống, ưu điểm.",
+    "warn_zh": "“发挥”可指临场表现；越南语 phát huy 多与传统、优点搭配。"
+  },
+  {
+    "id": "S020-1",
+    "wordId": "W020",
+    "def_zh": "把……放在心上，重视",
+    "def_vi": "quan tâm",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S021-1",
+    "wordId": "W021",
+    "def_zh": "宣传政策",
+    "def_vi": "tuyên truyền",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S021-2",
+    "wordId": "W021",
+    "def_zh": "推广、介绍",
+    "def_vi": "Tiếng Việt “tuyên truyền” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "色彩"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "宣传 còn là <b>quảng bá sản phẩm</b>. Tiếng Việt “tuyên truyền” gắn với chính sách, đường lối.",
+    "warn_zh": "“宣传”可用于商业推广；越南语 tuyên truyền 多用于政治宣传。"
+  },
+  {
+    "id": "S022-1",
+    "wordId": "W022",
+    "def_zh": "感情冲动",
+    "def_vi": "kích động",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S022-2",
+    "wordId": "W022",
+    "def_zh": "感情强烈、兴奋",
+    "def_vi": "Tiếng Việt “kích động” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "色彩",
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "激动得哭了 là <b>xúc động, phấn khích</b>. Tiếng Việt “kích động” mang nghĩa xấu: xúi giục, mất kiểm soát.",
+    "warn_zh": "“激动”多为感情强烈、兴奋；越南语 kích động 带贬义，指煽动。"
+  },
+  {
+    "id": "S023-1",
+    "wordId": "W023",
+    "def_zh": "保养机器、汽车",
+    "def_vi": "bảo dưỡng",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S023-2",
+    "wordId": "W023",
+    "def_zh": "保护身体、皮肤",
+    "def_vi": "Tiếng Việt “bảo dưỡng” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "很会保养 là biết <b>chăm sóc cơ thể, da</b>. Tiếng Việt “bảo dưỡng” thường dùng cho máy móc.",
+    "warn_zh": "“保养”可用于人的身体、皮肤；越南语 bảo dưỡng 多用于机器。"
+  },
+  {
+    "id": "S024-1",
+    "wordId": "W024",
+    "def_zh": "口译",
+    "def_vi": "phiên dịch",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S024-2",
+    "wordId": "W024",
+    "def_zh": "把书面文字译成另一种语言",
+    "def_vi": "Tiếng Việt “phiên dịch” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "翻译 gồm cả <b>dịch viết</b>. Tiếng Việt “phiên dịch” thường chỉ dịch nói; dịch viết là “biên dịch”.",
+    "warn_zh": "“翻译”包括笔译；越南语 phiên dịch 多指口译，笔译为 biên dịch。"
+  },
+  {
+    "id": "S025-1",
+    "wordId": "W025",
+    "def_zh": "交换意见、商量",
+    "def_vi": "thảo luận",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S026-1",
+    "wordId": "W026",
+    "def_zh": "辨别",
+    "def_vi": "phân biệt",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S026-2",
+    "wordId": "W026",
+    "def_zh": "离别",
+    "def_vi": "Tiếng Việt “phân biệt” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "分别十年 là <b>xa cách, chia ly</b> mười năm. Ngoài ra còn nghĩa “lần lượt”.",
+    "warn_zh": "“分别”可指离别、各自；越南语 phân biệt 只指辨别、区别。"
+  },
+  {
+    "id": "S027-1",
+    "wordId": "W027",
+    "def_zh": "精神紧张",
+    "def_vi": "căng thẳng",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S027-2",
+    "wordId": "W027",
+    "def_zh": "数量不够，短缺",
+    "def_vi": "Tiếng Việt “khẩn trương” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "供应紧张 là <b>khan hiếm, thiếu</b>. Người học thường chỉ biết nghĩa “căng thẳng”.",
+    "warn_zh": "“紧张”还有“供应不足”义；越南学习者常只知“精神紧张”。"
+  },
+  {
+    "id": "S028-1",
+    "wordId": "W028",
+    "def_zh": "价值（经济、意义）",
+    "def_vi": "giá trị",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S028-2",
+    "wordId": "W028",
+    "def_zh": "积极作用、意义",
+    "def_vi": "Tiếng Việt “giá trị” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "Hai bên khá giống nhau; tiếng Việt “giá trị” còn có nghĩa “có hiệu lực” (vé có giá trị một tháng) mà 价值 không có.",
+    "warn_zh": "两者大体对应；越南语 giá trị 另有“有效”义（giá trị một tháng）。"
+  },
+  {
+    "id": "S029-1",
+    "wordId": "W029",
+    "def_zh": "产品质量",
+    "def_vi": "chất lượng",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S029-2",
+    "wordId": "W029",
+    "def_zh": "所含物质的多少",
+    "def_vi": "Tiếng Việt “chất lượng” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "Trong vật lý, 质量 là <b>khối lượng</b> (5千克), không phải “chất lượng”.",
+    "warn_zh": "“质量”在物理中指物体所含物质的多少；越南语 chất lượng 无此义。"
+  },
+  {
+    "id": "S030-1",
+    "wordId": "W030",
+    "def_zh": "广泛存在",
+    "def_vi": "phổ biến (thường gặp)",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S030-2",
+    "wordId": "W030",
+    "def_zh": "存在广泛、很常见",
+    "def_vi": "Tiếng Việt “phổ biến” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "普遍 chỉ là tính từ <b>phổ biến, thường gặp</b>. Tiếng Việt “phổ biến” còn là động từ “phổ biến kiến thức, phổ biến quy định”.",
+    "warn_zh": "“普遍”只作形容词；越南语 phổ biến 还可作动词，义为推广、传达。"
+  },
+  {
+    "id": "S031-1",
+    "wordId": "W031",
+    "def_zh": "保护（人、权益）",
+    "def_vi": "bảo hộ, bảo vệ",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S031-2",
+    "wordId": "W031",
+    "def_zh": "照顾，使不受损害",
+    "def_vi": "Tiếng Việt “bảo hộ” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "搭配"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "保护环境 là <b>bảo vệ môi trường</b>. Tiếng Việt “bảo hộ” thường đi với lao động, pháp luật, nên người học dễ hiểu lệch đối tượng.",
+    "warn_zh": "“保护”对象很广（环境、文物等）；越南语 bảo hộ 多用于劳动保护、法律保护。"
+  },
+  {
+    "id": "S032-1",
+    "wordId": "W032",
+    "def_zh": "在中小学读书的人",
+    "def_vi": "học sinh",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S032-2",
+    "wordId": "W032",
+    "def_zh": "在各级学校读书的人",
+    "def_vi": "Tiếng Việt “học sinh” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "学生 dùng cho <b>mọi cấp học, cả đại học</b>. Tiếng Việt “học sinh” chỉ dùng cho phổ thông; đại học là “sinh viên”.",
+    "warn_zh": "“学生”可指各级学校的学习者；越南语 học sinh 只指中小学生，大学生称 sinh viên。"
+  },
+  {
+    "id": "S033-1",
+    "wordId": "W033",
+    "def_zh": "对男性的尊称",
+    "def_vi": "ông, ngài",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S033-2",
+    "wordId": "W033",
+    "def_zh": "丈夫",
+    "def_vi": "Tiếng Việt “tiên sinh” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "她先生 là <b>chồng của cô ấy</b>. Tiếng Việt “tiên sinh” không có nghĩa này.",
+    "warn_zh": "“先生”可指丈夫；越南语 tiên sinh 无此义。"
+  },
+  {
+    "id": "S034-1",
+    "wordId": "W034",
+    "def_zh": "没有危险",
+    "def_vi": "an toàn",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S035-1",
+    "wordId": "W035",
+    "def_zh": "意识、思维",
+    "def_vi": "tinh thần",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S035-2",
+    "wordId": "W035",
+    "def_zh": "有活力、有生气",
+    "def_vi": "Tiếng Việt “tinh thần” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "看起来很精神 là trông <b>tỉnh táo, có sức sống</b>.",
+    "warn_zh": "“精神”可形容人有活力；越南语 tinh thần 只指心理、思想层面。"
+  },
+  {
+    "id": "S036-1",
+    "wordId": "W036",
+    "def_zh": "合适的时机",
+    "def_vi": "cơ hội",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S037-1",
+    "wordId": "W037",
+    "def_zh": "方法、办法",
+    "def_vi": "thủ đoạn",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S037-2",
+    "wordId": "W037",
+    "def_zh": "方法、办法",
+    "def_vi": "Tiếng Việt “thủ đoạn” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "色彩"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "法律手段 là <b>biện pháp pháp lý</b>, mang nghĩa trung tính. Tiếng Việt “thủ đoạn” mang nghĩa xấu.",
+    "warn_zh": "“手段”多为中性的“方法”；越南语 thủ đoạn 带贬义。"
+  },
+  {
+    "id": "S038-1",
+    "wordId": "W038",
+    "def_zh": "事物变化、壮大",
+    "def_vi": "phát triển",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S038-2",
+    "wordId": "W038",
+    "def_zh": "经过培养后接纳加入组织",
+    "def_vi": "Tiếng Việt “phát triển” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "发展为党员 là <b>kết nạp</b> vào tổ chức, nghĩa này tiếng Việt không dùng “phát triển”.",
+    "warn_zh": "“发展”可指吸收新成员（发展党员）；越南语 phát triển 无此用法。"
+  },
+  {
+    "id": "S039-1",
+    "wordId": "W039",
+    "def_zh": "从某处走开",
+    "def_vi": "rời khỏi",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S039-2",
+    "wordId": "W039",
+    "def_zh": "从某地走开，不在那里",
+    "def_vi": "Tiếng Việt “ly khai” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "色彩"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "离开 chỉ đơn giản là <b>rời khỏi một nơi</b>, không mang nghĩa “ly khai, tách ra lập phe” như âm Hán Việt.",
+    "warn_zh": "“离开”只是从某地走开；越南语 ly khai 指脱离组织、分裂。"
+  },
+  {
+    "id": "S040-1",
+    "wordId": "W040",
+    "def_zh": "步行的人",
+    "def_vi": "người đi đường",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S040-2",
+    "wordId": "W040",
+    "def_zh": "步行经过的人",
+    "def_vi": "Tiếng Việt “hành nhân” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "行人 là <b>người đi bộ trên đường</b>, không phải “hành nhân” (lữ khách đi xa).",
+    "warn_zh": "“行人”指在路上步行的人，而非远行的旅人。"
+  },
+  {
+    "id": "S041-1",
+    "wordId": "W041",
+    "def_zh": "显露出来",
+    "def_vi": "xuất hiện",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S042-1",
+    "wordId": "W042",
+    "def_zh": "开发资源、软件",
+    "def_vi": "khai thác, phát triển",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S042-2",
+    "wordId": "W042",
+    "def_zh": "研制、设计出新产品",
+    "def_vi": "Tiếng Việt “khai phát” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "开发软件 là <b>phát triển, nghiên cứu ra sản phẩm</b>, không phải “khai phá, đào bới”.",
+    "warn_zh": "“开发”可指研制新产品；越南语易理解为开采、挖掘。"
+  },
+  {
+    "id": "S043-1",
+    "wordId": "W043",
+    "def_zh": "影响事物的环境、因素",
+    "def_vi": "điều kiện",
+    "relation": "same",
+    "dims": [],
+    "basis": "测试"
+  },
+  {
+    "id": "S044-1",
+    "wordId": "W044",
+    "def_zh": "文艺演出的项目",
+    "def_vi": "tiết mục",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S044-2",
+    "wordId": "W044",
+    "def_zh": "播出的栏目和内容",
+    "def_vi": "Tiếng Việt “tiết mục” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "节目 còn là <b>chương trình (TV, kênh)</b>, không chỉ là tiết mục biểu diễn.",
+    "warn_zh": "“节目”还指电视、广播节目；越南语 tiết mục 只指演出项目。"
+  },
+  {
+    "id": "S045-1",
+    "wordId": "W045",
+    "def_zh": "真实、确实",
+    "def_vi": "thực sự",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S045-2",
+    "wordId": "W045",
+    "def_zh": "诚实、不虚假",
+    "def_vi": "Tiếng Việt “thực tại” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "他很实在 là người <b>thật thà, chân thành</b>, không phải “thực tại, hiện thực”.",
+    "warn_zh": "“实在”可形容人诚实；越南语 thực tại 指现实。"
+  },
+  {
+    "id": "S046-1",
+    "wordId": "W046",
+    "def_zh": "使继续保持（生活）",
+    "def_vi": "duy trì",
+    "relation": "same",
+    "dims": [],
+    "basis": "词典"
+  },
+  {
+    "id": "S046-2",
+    "wordId": "W046",
+    "def_zh": "使继续保持不变",
+    "def_vi": "Tiếng Việt “duy trì” thường không có nghĩa này",
+    "relation": "diff",
+    "dims": [
+      "对象指向",
+      "搭配"
+    ],
+    "basis": "测试+分类表",
+    "warn_vi": "维持秩序 là <b>giữ trật tự</b>. Tiếng Việt “duy trì” thường đi với quan hệ, thói quen.",
+    "warn_zh": "“维持秩序”中义为使保持稳定；越南语 duy trì 多指继续保持联系、习惯。"
+  },
+  {
+    "id": "S047-1",
+    "wordId": "W047",
+    "def_zh": "（待补充）",
+    "def_vi": "khó khăn, gian khổ",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: dễ nhầm sang 'khốn nạn' (nghĩa xấu)"
+  },
+  {
+    "id": "S048-1",
+    "wordId": "W048",
+    "def_zh": "（待补充）",
+    "def_vi": "tự kiểm điểm, tự phê bình",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hán-Việt 'kiểm thảo' nghĩa hẹp/khác"
+  },
+  {
+    "id": "S049-1",
+    "wordId": "W049",
+    "def_zh": "（待补充）",
+    "def_vi": "nghiêm trọng, nặng nề",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S050-1",
+    "wordId": "W050",
+    "def_zh": "（待补充）",
+    "def_vi": "đồ vật, thứ",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hán-Việt 'đông tây' (phương hướng) khác"
+  },
+  {
+    "id": "S051-1",
+    "wordId": "W051",
+    "def_zh": "（待补充）",
+    "def_vi": "cẩn thận",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hán-Việt 'tiểu tâm' nghĩa khác"
+  },
+  {
+    "id": "S052-1",
+    "wordId": "W052",
+    "def_zh": "（待补充）",
+    "def_vi": "chồng",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hán-Việt 'trượng phu' = đàn ông khí khái"
+  },
+  {
+    "id": "S053-1",
+    "wordId": "W053",
+    "def_zh": "（待补充）",
+    "def_vi": "giám đốc, quản lý",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hán-Việt 'kinh lý' nghĩa khác/cổ"
+  },
+  {
+    "id": "S054-1",
+    "wordId": "W054",
+    "def_zh": "（待补充）",
+    "def_vi": "tiện lợi",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: phương tiện"
+  },
+  {
+    "id": "S055-1",
+    "wordId": "W055",
+    "def_zh": "（待补充）",
+    "def_vi": "tài xế, bác tài",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: sư phụ"
+  },
+  {
+    "id": "S056-1",
+    "wordId": "W056",
+    "def_zh": "（待补充）",
+    "def_vi": "rẻ",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: tiện nghi"
+  },
+  {
+    "id": "S057-1",
+    "wordId": "W057",
+    "def_zh": "（待补充）",
+    "def_vi": "hiểu, rõ",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: minh bạch (rõ ràng, công khai, thường là về thông tin)"
+  },
+  {
+    "id": "S058-1",
+    "wordId": "W058",
+    "def_zh": "（待补充）",
+    "def_vi": "chính gốc, đúng chất",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: địa đạo (đường hầm)"
+  },
+  {
+    "id": "S059-1",
+    "wordId": "W059",
+    "def_zh": "（待补充）",
+    "def_vi": "trang điểm",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: hoá trang (cải trang)"
+  },
+  {
+    "id": "S060-1",
+    "wordId": "W060",
+    "def_zh": "（待补充）",
+    "def_vi": "kiểu Tây, phong cách Tây",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: dương khí (sức sống)"
+  },
+  {
+    "id": "S061-1",
+    "wordId": "W061",
+    "def_zh": "（待补充）",
+    "def_vi": "người lớn",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: đại nhân (cách xưng hô với người có chức vụ cao)"
+  },
+  {
+    "id": "S062-1",
+    "wordId": "W062",
+    "def_zh": "（待补充）",
+    "def_vi": "tình người, nhân tính",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: nhân tình"
+  },
+  {
+    "id": "S063-1",
+    "wordId": "W063",
+    "def_zh": "（待补充）",
+    "def_vi": "tức giận",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: sinh khí (sức sống)"
+  },
+  {
+    "id": "S064-1",
+    "wordId": "W064",
+    "def_zh": "（待补充）",
+    "def_vi": "mặt trái, phản diện",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: phản diện (người xấu)"
+  },
+  {
+    "id": "S065-1",
+    "wordId": "W065",
+    "def_zh": "（待补充）",
+    "def_vi": "tình cảm (nhiều phương diện)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: cảm tình (thích)"
+  },
+  {
+    "id": "S066-1",
+    "wordId": "W066",
+    "def_zh": "（待补充）",
+    "def_vi": "hiểu, thông cảm",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: lý giải (phân tích, giải thích)"
+  },
+  {
+    "id": "S067-1",
+    "wordId": "W067",
+    "def_zh": "（待补充）",
+    "def_vi": "mở khoá",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: giải toả (phá đi hoặc giải toả cảm xúc)"
+  },
+  {
+    "id": "S068-1",
+    "wordId": "W068",
+    "def_zh": "（待补充）",
+    "def_vi": "tạo thành, hình thành, sinh ra",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: sinh thành (con người sinh ra, nuôi dưỡng)"
+  },
+  {
+    "id": "S069-1",
+    "wordId": "W069",
+    "def_zh": "（待补充）",
+    "def_vi": "mức độ, trình độ",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: trình độ (nhưng hay bị nhầm với 水平）"
+  },
+  {
+    "id": "S070-1",
+    "wordId": "W070",
+    "def_zh": "（待补充）",
+    "def_vi": "tùy ý, tự nhiên, thoải mái",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: tùy tiện, làm việc cẩu thả, vô trách nhiệm, thiếu quy tắc"
+  },
+  {
+    "id": "S071-1",
+    "wordId": "W071",
+    "def_zh": "（待补充）",
+    "def_vi": "vợ/chồng",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: tình nhân"
+  },
+  {
+    "id": "S072-1",
+    "wordId": "W072",
+    "def_zh": "（待补充）",
+    "def_vi": "tận dụng, sử dụng, lợi dụng (đa nghĩa)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: lợi dụng"
+  },
+  {
+    "id": "S073-1",
+    "wordId": "W073",
+    "def_zh": "（待补充）",
+    "def_vi": "nghiêm trọng / lợi hại",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: lợi hại (giỏi)"
+  },
+  {
+    "id": "S074-1",
+    "wordId": "W074",
+    "def_zh": "（待补充）",
+    "def_vi": "Vai trò, ảnh hưởng, tác động",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S075-1",
+    "wordId": "W075",
+    "def_zh": "（待补充）",
+    "def_vi": "khách sáo, xa cách, xem nhau như người ngoài",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Gặp bên ngoài"
+  },
+  {
+    "id": "S076-1",
+    "wordId": "W076",
+    "def_zh": "（待补充）",
+    "def_vi": "làm nũng, nhõng nhẽo (có thể dùng cho thần tượng, chiến thuật sử dụng đạt được mục đích, đàn ông dùng là bình thường)",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: làm nũng, nhõng nhẽo (trẻ con và con gái)"
+  },
+  {
+    "id": "S077-1",
+    "wordId": "W077",
+    "def_zh": "（待补充）",
+    "def_vi": "Trung học (gồm THCS + THPT)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: THCS"
+  },
+  {
+    "id": "S078-1",
+    "wordId": "W078",
+    "def_zh": "（待补充）",
+    "def_vi": "sơ ý; lơ là; cẩu thả; không chú ý",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Ý chính, nội dung tóm tắt."
+  },
+  {
+    "id": "S079-1",
+    "wordId": "W079",
+    "def_zh": "（待补充）",
+    "def_vi": "Giám sát, đôn đốc (hành động)",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Giám đốc (Hiện nayTiếng Trung thường dùng 经理)."
+  },
+  {
+    "id": "S080-1",
+    "wordId": "W080",
+    "def_zh": "（待补充）",
+    "def_vi": "Thương xót, đồng cảm",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Tán thành, đồng ý với quan điểm"
+  },
+  {
+    "id": "S081-1",
+    "wordId": "W081",
+    "def_zh": "（待补充）",
+    "def_vi": "Đào hoa, lăng nhăng",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Phong lưu, sống an nhàn, rủng rỉnh tiền bạc"
+  },
+  {
+    "id": "S082-1",
+    "wordId": "W082",
+    "def_zh": "（待补充）",
+    "def_vi": "Thụ động, lười biếng, chán nản",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Tiêu cực, xấu xa, tồi tệ"
+  },
+  {
+    "id": "S083-1",
+    "wordId": "W083",
+    "def_zh": "（待补充）",
+    "def_vi": "Sinh động, sôi nổi (dùng được cho cả vật/không khí)",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hoạt bát, chỉ dùng để miêu tả tính cách nhanh nhẹn của con người"
+  },
+  {
+    "id": "S084-1",
+    "wordId": "W084",
+    "def_zh": "（待补充）",
+    "def_vi": "Phụ huynh học sinh",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Gia trưởng"
+  },
+  {
+    "id": "S085-1",
+    "wordId": "W085",
+    "def_zh": "（待补充）",
+    "def_vi": "Đồng ý, nhận lời, hứa (với ai đó)",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Đáp ứng, cung cấp đủ nhu cầu, thỏa mãn điều kiện"
+  },
+  {
+    "id": "S086-1",
+    "wordId": "W086",
+    "def_zh": "（待补充）",
+    "def_vi": "Khách sạn lớn, cao cấp",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Quán rượu, nơi nhậu nhẹt"
+  },
+  {
+    "id": "S087-1",
+    "wordId": "W087",
+    "def_zh": "（待补充）",
+    "def_vi": "Bỏ qua quyền lợi cá nhân (ví dụ: hi sinh ngày nghỉ)",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hy sinh (sự mất mát tính mạng cao cả)"
+  },
+  {
+    "id": "S088-1",
+    "wordId": "W088",
+    "def_zh": "（待补充）",
+    "def_vi": "Bộ phận máy móc, cơ quan",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Cơ quan"
+  },
+  {
+    "id": "S089-1",
+    "wordId": "W089",
+    "def_zh": "（待补充）",
+    "def_vi": "Đàm phán, thương lượng để giải quyết tranh chấp",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Giao thiệp"
+  },
+  {
+    "id": "S090-1",
+    "wordId": "W090",
+    "def_zh": "（待补充）",
+    "def_vi": "Nhận ra, cảm thấy (một sự thay đổi nào đó)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Phát giác, phát hiện ra bí mật động trời, vạch trần tội ác"
+  },
+  {
+    "id": "S091-1",
+    "wordId": "W091",
+    "def_zh": "（待补充）",
+    "def_vi": "Tự hào, hãnh diện (Tích cực)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Kiêu ngạo, tự cao tự đại, khinh người"
+  },
+  {
+    "id": "S092-1",
+    "wordId": "W092",
+    "def_zh": "（待补充）",
+    "def_vi": "Nảy sinh, phát sinh (trừu tượng: cảm xúc, ý tưởng, mâu thuẫn)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Tạo ra cái cụ thể/sinh học"
+  },
+  {
+    "id": "S093-1",
+    "wordId": "W093",
+    "def_zh": "（待补充）",
+    "def_vi": "Dọn dẹp; thu xếp đồ; (khẩu ngữ) xử/trị ai đó",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Gom góp dữ liệu"
+  },
+  {
+    "id": "S094-1",
+    "wordId": "W094",
+    "def_zh": "（待补充）",
+    "def_vi": "Rất, hết sức (phó từ chỉ mức độ)",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Xuất sắc khác thường"
+  },
+  {
+    "id": "S095-1",
+    "wordId": "W095",
+    "def_zh": "（待补充）",
+    "def_vi": "Thăm (chính thức); truy cập (web)",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Phỏng vấn"
+  },
+  {
+    "id": "S096-1",
+    "wordId": "W096",
+    "def_zh": "（待补充）",
+    "def_vi": "Màu, màu sắc, sắc mặt",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Nhac sắc"
+  },
+  {
+    "id": "S097-1",
+    "wordId": "W097",
+    "def_zh": "（待补充）",
+    "def_vi": "Trả lời, phản hồi (email, tin nhắn), hồi phục",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Hồi phục sức khỏe/kinh tế"
+  },
+  {
+    "id": "S098-1",
+    "wordId": "W098",
+    "def_zh": "（待补充）",
+    "def_vi": "Gu ăn uống cá nhân; mùi vị/hương vị món ăn",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Khẩu vị"
+  },
+  {
+    "id": "S099-1",
+    "wordId": "W099",
+    "def_zh": "（待补充）",
+    "def_vi": "Biểu cảm, nét mặt",
+    "relation": "diff",
+    "dims": [],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: Biểu tình"
+  },
+  {
+    "id": "S100-1",
+    "wordId": "W100",
+    "def_zh": "（待补充）",
+    "def_vi": "忠诚；忠于职守、忠于爱情",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: trung：多指 trung với Đảng / nước"
+  },
+  {
+    "id": "S101-1",
+    "wordId": "W101",
+    "def_zh": "（待补充）",
+    "def_vi": "孝顺（对父母）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: hiếu：另见口号 hiếu với dân"
+  },
+  {
+    "id": "S102-1",
+    "wordId": "W102",
+    "def_zh": "（待补充）",
+    "def_vi": "体积变大；通货膨胀",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: bành trướng：势力、领土扩张"
+  },
+  {
+    "id": "S103-1",
+    "wordId": "W103",
+    "def_zh": "（待补充）",
+    "def_vi": "（物）奢华",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: hào hoa：（人）潇洒大方"
+  },
+  {
+    "id": "S104-1",
+    "wordId": "W104",
+    "def_zh": "（待补充）",
+    "def_vi": "兽医（人）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: thú y：兽医学（学科）"
+  },
+  {
+    "id": "S105-1",
+    "wordId": "W105",
+    "def_zh": "（待补充）",
+    "def_vi": "保卫（国家、和平）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: bảo vệ：还可用于论文答辩（bảo vệ luận văn）"
+  },
+  {
+    "id": "S106-1",
+    "wordId": "W106",
+    "def_zh": "（待补充）",
+    "def_vi": "解放（民族、思想）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: giải phóng：另用于 giải phóng mặt bằng（拆迁）"
+  },
+  {
+    "id": "S107-1",
+    "wordId": "W107",
+    "def_zh": "（待补充）",
+    "def_vi": "动员（群众、兵力）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: động viên：多指鼓励某人"
+  },
+  {
+    "id": "S108-1",
+    "wordId": "W108",
+    "def_zh": "（待补充）",
+    "def_vi": "党政机关干部",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: cán bộ：泛指各单位工作人员"
+  },
+  {
+    "id": "S109-1",
+    "wordId": "W109",
+    "def_zh": "（待补充）",
+    "def_vi": "党组织负责人",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: thư ký：秘书、文书"
+  },
+  {
+    "id": "S110-1",
+    "wordId": "W110",
+    "def_zh": "（待补充）",
+    "def_vi": "工程项目",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: công trình：建筑物；研究成果（công trình nghiên cứu）"
+  },
+  {
+    "id": "S111-1",
+    "wordId": "W111",
+    "def_zh": "（待补充）",
+    "def_vi": "组织（活动、人员）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: tổ chức：另指举办（婚礼、生日）"
+  },
+  {
+    "id": "S112-1",
+    "wordId": "W112",
+    "def_zh": "（待补充）",
+    "def_vi": "工作（一切职业活动）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: công tác：公务、出差（đi công tác）"
+  },
+  {
+    "id": "S113-1",
+    "wordId": "W113",
+    "def_zh": "（待补充）",
+    "def_vi": "招待（客人）",
+    "relation": "diff",
+    "dims": [
+      "对象指向"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: chiêu đãi：请客吃饭、宴会"
+  },
+  {
+    "id": "S114-1",
+    "wordId": "W114",
+    "def_zh": "（待补充）",
+    "def_vi": "（军事）冲锋",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: xung phong：自告奋勇（xung phong phát biểu）"
+  },
+  {
+    "id": "S115-1",
+    "wordId": "W115",
+    "def_zh": "（待补充）",
+    "def_vi": "规模（名词）",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: quy mô：另作形容词“规模大”"
+  },
+  {
+    "id": "S116-1",
+    "wordId": "W116",
+    "def_zh": "（待补充）",
+    "def_vi": "安宁、平静",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: an ninh：安全、治安"
+  },
+  {
+    "id": "S117-1",
+    "wordId": "W117",
+    "def_zh": "（待补充）",
+    "def_vi": "经济",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: kinh tế：另有“节省”义（rất kinh tế）"
+  },
+  {
+    "id": "S118-1",
+    "wordId": "W118",
+    "def_zh": "（待补充）",
+    "def_vi": "留意",
+    "relation": "diff",
+    "dims": [
+      "义项范围"
+    ],
+    "basis": "分类表（未经双人核验）",
+    "warn_vi": "Dễ hiểu nhầm: lưu ý：另有“提醒”义"
+  },
+  {
+    "id": "S119-1",
+    "wordId": "W119",
+    "def_zh": "（待补充）",
+    "def_vi": "研究",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S120-1",
+    "wordId": "W120",
+    "def_zh": "（待补充）",
+    "def_vi": "道德",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S121-1",
+    "wordId": "W121",
+    "def_zh": "（待补充）",
+    "def_vi": "发明",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S122-1",
+    "wordId": "W122",
+    "def_zh": "（待补充）",
+    "def_vi": "成就",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S123-1",
+    "wordId": "W123",
+    "def_zh": "（待补充）",
+    "def_vi": "成果",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S124-1",
+    "wordId": "W124",
+    "def_zh": "（待补充）",
+    "def_vi": "尊重",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S125-1",
+    "wordId": "W125",
+    "def_zh": "（待补充）",
+    "def_vi": "进行",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S126-1",
+    "wordId": "W126",
+    "def_zh": "（待补充）",
+    "def_vi": "周到",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S127-1",
+    "wordId": "W127",
+    "def_zh": "（待补充）",
+    "def_vi": "注意",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S128-1",
+    "wordId": "W128",
+    "def_zh": "（待补充）",
+    "def_vi": "同意",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  },
+  {
+    "id": "S129-1",
+    "wordId": "W129",
+    "def_zh": "（待补充）",
+    "def_vi": "教育",
+    "relation": "same",
+    "dims": [],
+    "basis": "分类表（未经双人核验）"
+  }
+]
