@@ -9,7 +9,7 @@
     "shiftType": "意义扩展",
     "status": "verified",
     "gist_vi": "义务 còn có nghĩa <b>không lấy tiền, tình nguyện</b> (义务献血). Tiếng Việt “nghĩa vụ” không có nghĩa này.",
-    "gist_zh": "TODO: 义务还有“不收报酬、自愿”义（义务献血）。越南语“nghĩa vụ”无此义。",
+    "gist_zh": "义务还有“不收报酬、自愿”义（义务献血）。越南语“nghĩa vụ”无此义。",
     "tier": "tested"
   },
   {
@@ -22,7 +22,7 @@
     "shiftType": "义项范围／搭配",
     "status": "verified",
     "gist_vi": "忠实观众 là khán giả <b>trung thành</b>, không phải khán giả “trung thực”.",
-    "gist_zh": "TODO: 忠实观众是“忠心支持”的观众，不是“诚实”的观众。",
+    "gist_zh": "忠实观众是“忠心支持”的观众，不是“诚实”的观众。",
     "tier": "tested"
   },
   {
@@ -35,7 +35,7 @@
     "shiftType": "对象指向",
     "status": "verified",
     "gist_vi": "忠于 dùng được cho cả <b>công việc, nguyên tác, tình yêu</b>, không chỉ cho nước hay Đảng như “trung với”.",
-    "gist_zh": "TODO: 忠于可用于职守、原著、爱情等，不限于国家或政党。",
+    "gist_zh": "忠于可用于职守、原著、爱情等，不限于国家或政党。",
     "tier": "tested"
   },
   {
@@ -48,7 +48,7 @@
     "shiftType": "义项范围",
     "status": "verified",
     "gist_vi": "讲义气 là <b>sống có nghĩa với bạn bè</b>, không phải “khí khái vì chính nghĩa”.",
-    "gist_zh": "TODO: 讲义气指看重朋友情谊、肯出力，并非“为正义而豪气”。",
+    "gist_zh": "讲义气指看重朋友情谊、肯出力，并非“为正义而豪气”。",
     "tier": "tested"
   },
   {
@@ -61,7 +61,7 @@
     "shiftType": "基本对应",
     "status": "verified",
     "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
-    "gist_zh": "TODO: 基本义与越南语对应，可按汉越音理解。",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。",
     "tier": "tested"
   },
   {
@@ -74,7 +74,7 @@
     "shiftType": "基本对应",
     "status": "verified",
     "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
-    "gist_zh": "TODO: 基本义与越南语对应，可按汉越音理解。",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。",
     "tier": "tested"
   },
   {
@@ -87,7 +87,7 @@
     "shiftType": "基本对应",
     "status": "verified",
     "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
-    "gist_zh": "TODO: 基本义与越南语对应，可按汉越音理解。",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。",
     "tier": "tested"
   },
   {
@@ -100,7 +100,7 @@
     "shiftType": "基本对应",
     "status": "verified",
     "gist_vi": "Nghĩa cơ bản <b>giống tiếng Việt</b>, có thể hiểu theo âm Hán Việt.",
-    "gist_zh": "TODO: 基本义与越南语对应，可按汉越音理解。",
+    "gist_zh": "基本义与越南语对应，可按汉越音理解。",
     "tier": "tested"
   },
   {

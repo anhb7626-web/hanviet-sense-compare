@@ -19,7 +19,7 @@
     ],
     "basis": "《现代汉语词典》义项；ngữ liệu giáo dục cộng đồng",
     "warn_vi": "Thấy 义务 trước động từ (义务教、义务献血) thì thường là <b>không lấy tiền / tình nguyện</b>, không phải “bắt buộc”.",
-    "warn_zh": "TODO: 义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。"
+    "warn_zh": "义务用在动词前（义务教、义务献血）多指不收报酬／自愿，不是“必须做”。"
   },
   {
     "id": "S002-1",
@@ -42,7 +42,7 @@
     ],
     "basis": "《现代汉语词典》搭配；đối chiếu tiếng Việt",
     "warn_vi": "忠实观众 = khán giả <b>trung thành</b>, không phải khán giả “trung thực / thật thà”.",
-    "warn_zh": "TODO: 忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。"
+    "warn_zh": "忠实观众 = 忠心支持的观众，不是“诚实／老实”的观众。"
   },
   {
     "id": "S003-1",
@@ -64,7 +64,7 @@
     ],
     "basis": "《现代汉语词典》搭配；khảo sát sơ bộ người học",
     "warn_vi": "忠于原著 = <b>bám sát nguyên tác</b>; 忠于职守 = <b>tận tụy với công việc</b>. Không nhất thiết mang nghĩa chính trị như “trung với”.",
-    "warn_zh": "TODO: 忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。"
+    "warn_zh": "忠于原著 = 内容与原著保持一致；忠于职守 = 尽心做好本职。不必带政治忠诚义。"
   },
   {
     "id": "S004-1",
@@ -77,7 +77,7 @@
     ],
     "basis": "《现代汉语词典》；đối chiếu từ điển Việt",
     "warn_vi": "讲义气 = <b>sống có tình có nghĩa với bạn bè</b>, gần “nghĩa hiệp / chơi đẹp”, không phải “khí khái chính nghĩa”.",
-    "warn_zh": "TODO: 讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。"
+    "warn_zh": "讲义气 = 看重朋友情谊、肯出力，近于“讲交情”，不是“为正义而豪气”。"
   },
   {
     "id": "S005-1",
